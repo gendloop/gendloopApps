@@ -46,6 +46,17 @@
             "branch": "main",
             "is_private": false,
             "token": ""
+        },
+        {
+            "files": [
+                "Add_Submodule.yml"
+            ],
+            "local_dir": "../.github/workflows",
+            "user": "gendloop",
+            "repo": "add-submodule",
+            "branch": "main",
+            "is_private": false,
+            "token": ""
         }
     ]
 }

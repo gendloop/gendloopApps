@@ -1,0 +1,19 @@
+name: Update_Submodules
+
+permissions:
+  contents: write
+  actions: write
+
+on: 
+  workflow_dispatch:
+  schedule:
+    - cron: '35 16 * * *'
+
+jobs:
+  update_submodules:
+    runs-on: windows-latest
+    steps:
+      - name: update-submodules
+        uses: gendloop/update-submodules@main
+
+      
