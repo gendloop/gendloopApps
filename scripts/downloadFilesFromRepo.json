@@ -38,12 +38,11 @@
         },
         {
             "files": [
-                "GitHubActions/Update_Submodules.yml",
-                "GitHubActions/Add_Submodule.yml"
+                "Update_Submodules.yml"
             ],
             "local_dir": "../.github/workflows",
             "user": "gendloop",
-            "repo": "Tools",
+            "repo": "update-submodules",
             "branch": "main",
             "is_private": false,
             "token": ""
