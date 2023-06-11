@@ -1,0 +1,30 @@
+name: Update_Submodules
+
+permissions:
+  contents: write
+  actions: write
+
+on: 
+  workflow_dispatch:
+  schedule:
+    - cron: '35 16 * * *'
+
+jobs:
+  update_submodules:
+    runs-on: windows-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v3
+
+      - name: update-submodules
+        shell: bash
+        run: |
+          # config
+          git config --global user.name "$GITHUB_ACTOR"
+          git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          # update submodules to latest
+          git submodule update --remote 
+          # submit
+          git add .
+          (git commit -m "chore: update submodules") || true
+          (git push) || true
