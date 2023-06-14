@@ -25,7 +25,7 @@ on:
 
 jobs:
   add_submodule:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
       - name: add-submodule
         uses: gendloop/add-submodule@main

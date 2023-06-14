@@ -11,7 +11,7 @@ on:
 
 jobs:
   update_submodules:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
       - name: update-submodules
         uses: gendloop/update-submodules@main
