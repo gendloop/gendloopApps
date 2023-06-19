@@ -57,6 +57,17 @@
             "branch": "main",
             "is_private": false,
             "token": ""
+        },
+        {
+            "files": [
+                ".github/workflows/Copy_Secrets.yml"
+            ],
+            "local_dir": "../.github/workflows",
+            "user": "gendloop",
+            "repo": "copy-secrets",
+            "branch": "main",
+            "is_private": false,
+            "token": ""
         }
     ]
 }
