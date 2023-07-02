@@ -1,0 +1,4 @@
+[submodule "NeatDM"]
+	path = NeatDM
+	url = https://github.com/gendloop/NeatDM
+	branch = main
