@@ -2,3 +2,7 @@
 	path = NeatDM
 	url = https://github.com/gendloop/NeatDM
 	branch = main
+[submodule "fastgithub"]
+	path = fastgithub
+	url = https://github.com/gendloop/fastgithub
+	branch = main
