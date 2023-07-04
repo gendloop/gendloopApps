@@ -10,3 +10,7 @@
 	path = Typora
 	url = https://github.com/gendloop/Typora
 	branch = main
+[submodule "geek"]
+	path = geek
+	url = https://github.com/gendloop/geek
+	branch = main
