@@ -14,3 +14,7 @@
 	path = geek
 	url = https://github.com/gendloop/geek
 	branch = main
+[submodule "IObitUnlocker"]
+	path = IObitUnlocker
+	url = https://github.com/gendloop/IObitUnlocker
+	branch = main
