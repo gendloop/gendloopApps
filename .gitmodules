@@ -18,3 +18,7 @@
 	path = IObitUnlocker
 	url = https://github.com/gendloop/IObitUnlocker
 	branch = main
+[submodule "KMS"]
+	path = KMS
+	url = https://github.com/gendloop/KMS
+	branch = main
