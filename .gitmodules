@@ -22,3 +22,7 @@
 	path = KMS
 	url = https://github.com/gendloop/KMS
 	branch = main
+[submodule "YuQue"]
+	path = YuQue
+	url = https://github.com/gendloop/YuQue
+	branch = main
