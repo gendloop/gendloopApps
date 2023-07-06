@@ -1,5 +1,6 @@
 # gendloopApps
 
+[![YuQue](https://img.shields.io/static/v1?label=Apps&message=YuQue&color=blue)](https://github.com/gendloop/YuQue/tree/main) 
 [![KMS](https://img.shields.io/static/v1?label=Apps&message=KMS&color=blue)](https://github.com/gendloop/KMS/tree/main) 
 [![IObitUnlocker](https://img.shields.io/static/v1?label=Apps&message=IObitUnlocker&color=blue)](https://github.com/gendloop/IObitUnlocker/tree/main) 
 [![geek](https://img.shields.io/static/v1?label=Apps&message=geek&color=blue)](https://github.com/gendloop/geek/tree/main) 
