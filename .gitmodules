@@ -26,3 +26,7 @@
 	path = YuQue
 	url = https://github.com/gendloop/YuQue
 	branch = main
+[submodule "steamcommunity"]
+	path = steamcommunity
+	url = https://github.com/gendloop/steamcommunity
+	branch = main
