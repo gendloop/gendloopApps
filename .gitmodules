@@ -30,3 +30,7 @@
 	path = steamcommunity
 	url = https://github.com/gendloop/steamcommunity
 	branch = main
+[submodule "sogouwubi"]
+	path = sogouwubi
+	url = https://github.com/gendloop/sogouwubi
+	branch = main
