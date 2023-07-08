@@ -1,5 +1,6 @@
 # gendloopApps
 
+[![sogouwubi](https://img.shields.io/static/v1?label=Apps&message=sogouwubi&color=blue)](https://github.com/gendloop/sogouwubi/tree/main) 
 [![steamcommunity](https://img.shields.io/static/v1?label=Apps&message=steamcommunity&color=blue)](https://github.com/gendloop/steamcommunity/tree/main) 
 [![YuQue](https://img.shields.io/static/v1?label=Apps&message=YuQue&color=blue)](https://github.com/gendloop/YuQue/tree/main) 
 [![KMS](https://img.shields.io/static/v1?label=Apps&message=KMS&color=blue)](https://github.com/gendloop/KMS/tree/main) 
