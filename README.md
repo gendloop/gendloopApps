@@ -11,3 +11,18 @@
 [![NeatDM](https://img.shields.io/static/v1?label=Apps&message=NeatDM&color=blue)](https://github.com/gendloop/NeatDM/tree/main) 
 
 [gendloopBucket](https://github.com/gendloop/gendloopBucket) 
+
+## Apps
+
+1. `fastgithub` 
+2. `geek` 
+3. `IObitUnlocker` 
+4. `KMS` 
+5. `NeatDM` 
+6. `steamcommunity` 
+7. `Typora` 
+
+## Installers
+
+1. `sogouwubi` 
+2. `YuQue` 
