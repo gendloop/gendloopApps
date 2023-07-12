@@ -21,8 +21,8 @@
 5. `NeatDM` 
 6. `steamcommunity` 
 7. `Typora` 
+8. `YuQue` 
 
 ## Installers
 
 1. `sogouwubi` 
-2. `YuQue` 
