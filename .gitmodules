@@ -34,3 +34,7 @@
 	path = sogouwubi
 	url = https://github.com/gendloop/sogouwubi
 	branch = main
+[submodule "chatbox"]
+	path = chatbox
+	url = https://github.com/gendloop/chatbox
+	branch = main
