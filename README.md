@@ -27,3 +27,4 @@
 ## Installers
 
 1. `sogouwubi` 
+1. `chatbox` 
