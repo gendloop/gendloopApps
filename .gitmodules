@@ -38,3 +38,7 @@
 	path = chatbox
 	url = https://github.com/gendloop/chatbox
 	branch = main
+[submodule "ALiCloudDisk"]
+	path = ALiCloudDisk
+	url = https://github.com/gendloop/ALiCloudDisk
+	branch = main
