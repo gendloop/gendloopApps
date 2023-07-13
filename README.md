@@ -24,6 +24,7 @@
 6. `steamcommunity` 
 7. `Typora` 
 8. `YuQue` 
+9. `ALiCloudDisk` 
 
 ## Installers
 
