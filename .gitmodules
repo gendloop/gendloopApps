@@ -42,3 +42,7 @@
 	path = ALiCloudDisk
 	url = https://github.com/gendloop/ALiCloudDisk
 	branch = main
+[submodule "EdgeGo"]
+	path = EdgeGo
+	url = https://github.com/gendloop/EdgeGo
+	branch = main
