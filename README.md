@@ -26,6 +26,7 @@
 7. `Typora` 
 8. `YuQue` 
 9. `ALiCloudDisk` 
+10. `EdgeGo` 
 
 ## Installers
 
