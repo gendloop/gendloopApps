@@ -1,5 +1,6 @@
 # gendloopApps
 
+[![VS_2017_Community](https://img.shields.io/static/v1?label=Apps&message=VS_2017_Community&color=blue)](https://github.com/gendloop/VS_2017_Community/tree/main) 
 [![EdgeGo](https://img.shields.io/static/v1?label=Apps&message=EdgeGo&color=blue)](https://github.com/gendloop/EdgeGo/tree/main) 
 [![ALiCloudDisk](https://img.shields.io/static/v1?label=Apps&message=ALiCloudDisk&color=blue)](https://github.com/gendloop/ALiCloudDisk/tree/main) 
 [![chatbox](https://img.shields.io/static/v1?label=Apps&message=chatbox&color=blue)](https://github.com/gendloop/chatbox/tree/main) 
