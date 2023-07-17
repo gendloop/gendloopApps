@@ -33,4 +33,4 @@
 
 1. `sogouwubi` 
 1. `chatbox` 
-1. `VS_2017_Co`
+1. `VS_2017_Community` 
