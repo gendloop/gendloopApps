@@ -46,3 +46,7 @@
 	path = EdgeGo
 	url = https://github.com/gendloop/EdgeGo
 	branch = main
+[submodule "VS_2017_Community"]
+	path = VS_2017_Community
+	url = https://github.com/gendloop/VS_2017_Community
+	branch = main
