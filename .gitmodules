@@ -50,3 +50,7 @@
 	path = VS_2017_Community
 	url = https://github.com/gendloop/VS_2017_Community
 	branch = main
+[submodule "BeyondCompare"]
+	path = BeyondCompare
+	url = https://github.com/gendloop/BeyondCompare
+	branch = main
