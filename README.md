@@ -31,6 +31,7 @@
 9. `ALiCloudDisk` 
 10. `EdgeGo` 
 11. `BeyondCompare` 
+12. `Listary` 
 
 ## Installers
 
