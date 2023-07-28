@@ -54,3 +54,7 @@
 	path = BeyondCompare
 	url = https://github.com/gendloop/BeyondCompare
 	branch = main
+[submodule "Listary"]
+	path = Listary
+	url = https://github.com/gendloop/Listary
+	branch = main
