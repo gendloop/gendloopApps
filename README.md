@@ -1,5 +1,6 @@
 # gendloopApps
 
+[![Listary](https://img.shields.io/static/v1?label=Apps&message=Listary&color=blue)](https://github.com/gendloop/Listary/tree/main) 
 [![BeyondCompare](https://img.shields.io/static/v1?label=Apps&message=BeyondCompare&color=blue)](https://github.com/gendloop/BeyondCompare/tree/main) 
 [![VS_2017_Community](https://img.shields.io/static/v1?label=Apps&message=VS_2017_Community&color=blue)](https://github.com/gendloop/VS_2017_Community/tree/main) 
 [![EdgeGo](https://img.shields.io/static/v1?label=Apps&message=EdgeGo&color=blue)](https://github.com/gendloop/EdgeGo/tree/main) 
