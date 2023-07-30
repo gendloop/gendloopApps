@@ -62,3 +62,7 @@
 	path = synergy
 	url = https://github.com/gendloop/synergy
 	branch = main
+[submodule "PotPlayer"]
+	path = PotPlayer
+	url = https://github.com/gendloop/PotPlayer
+	branch = main
