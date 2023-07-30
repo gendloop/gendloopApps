@@ -58,3 +58,7 @@
 	path = Listary
 	url = https://github.com/gendloop/Listary
 	branch = main
+[submodule "synergy"]
+	path = synergy
+	url = https://github.com/gendloop/synergy
+	branch = main
