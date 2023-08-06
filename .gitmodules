@@ -66,3 +66,7 @@
 	path = PotPlayer
 	url = https://github.com/gendloop/PotPlayer
 	branch = main
+[submodule "Quicker"]
+	path = Quicker
+	url = https://github.com/gendloop/Quicker
+	branch = main
