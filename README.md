@@ -42,4 +42,5 @@
 1. `chatbox` 
 1. `VS_2017_Community` 
 1. `synergy` 
-1. `PotPlayer`
+1. `PotPlayer` 
+1. `Quicker` 
