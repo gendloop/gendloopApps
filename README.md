@@ -1,5 +1,6 @@
 # gendloopApps
 
+[![Quicker](https://img.shields.io/static/v1?label=Apps&message=Quicker&color=blue)](https://github.com/gendloop/Quicker/tree/main) 
 [![PotPlayer](https://img.shields.io/static/v1?label=Apps&message=PotPlayer&color=blue)](https://github.com/gendloop/PotPlayer/tree/main) 
 [![synergy](https://img.shields.io/static/v1?label=Apps&message=synergy&color=blue)](https://github.com/gendloop/synergy/tree/main) 
 [![Listary](https://img.shields.io/static/v1?label=Apps&message=Listary&color=blue)](https://github.com/gendloop/Listary/tree/main) 
