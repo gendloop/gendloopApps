@@ -70,3 +70,7 @@
 	path = Quicker
 	url = https://github.com/gendloop/Quicker
 	branch = main
+[submodule "TencentMeeting"]
+	path = TencentMeeting
+	url = https://github.com/gendloop/TencentMeeting
+	branch = main
