@@ -74,3 +74,7 @@
 	path = TencentMeeting
 	url = https://github.com/gendloop/TencentMeeting
 	branch = main
+[submodule "AnLink"]
+	path = AnLink
+	url = https://github.com/gendloop/AnLink
+	branch = main
