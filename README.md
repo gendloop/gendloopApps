@@ -1,5 +1,6 @@
 # gendloopApps
 
+[![CCProxy](https://img.shields.io/static/v1?label=Apps&message=CCProxy&color=blue)](https://github.com/gendloop/CCProxy/tree/main) 
 [![AnLink](https://img.shields.io/static/v1?label=Apps&message=AnLink&color=blue)](https://github.com/gendloop/AnLink/tree/main) 
 [![TencentMeeting](https://img.shields.io/static/v1?label=Apps&message=TencentMeeting&color=blue)](https://github.com/gendloop/TencentMeeting/tree/main) 
 [![Quicker](https://img.shields.io/static/v1?label=Apps&message=Quicker&color=blue)](https://github.com/gendloop/Quicker/tree/main) 
