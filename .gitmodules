@@ -78,3 +78,7 @@
 	path = AnLink
 	url = https://github.com/gendloop/AnLink
 	branch = main
+[submodule "CCProxy"]
+	path = CCProxy
+	url = https://github.com/gendloop/CCProxy
+	branch = main
