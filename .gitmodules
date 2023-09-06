@@ -86,3 +86,7 @@
 	path = v2rayN
 	url = https://github.com/gendloop/v2rayN
 	branch = main
+[submodule "Xshell"]
+	path = Xshell
+	url = https://github.com/gendloop/Xshell
+	branch = main
