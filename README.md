@@ -1,5 +1,6 @@
 # gendloopApps
 
+[![Xshell](https://img.shields.io/static/v1?label=Apps&message=Xshell&color=blue)](https://github.com/gendloop/Xshell/tree/main) 
 [![v2rayN](https://img.shields.io/static/v1?label=Apps&message=v2rayN&color=blue)](https://github.com/gendloop/v2rayN/tree/main) 
 [![CCProxy](https://img.shields.io/static/v1?label=Apps&message=CCProxy&color=blue)](https://github.com/gendloop/CCProxy/tree/main) 
 [![AnLink](https://img.shields.io/static/v1?label=Apps&message=AnLink&color=blue)](https://github.com/gendloop/AnLink/tree/main) 
