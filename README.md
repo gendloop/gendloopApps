@@ -39,7 +39,8 @@
 10. `EdgeGo` 
 11. `BeyondCompare` 
 12. `Listary`
-13. `CCProxy` 
+13. `CCProxy`
+14. `v2rayN` 
 
 ## Installers
 
