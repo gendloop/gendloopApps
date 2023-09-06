@@ -45,10 +45,11 @@
 ## Installers
 
 1. `sogouwubi` 
-1. `chatbox` 
-1. `VS_2017_Community` 
-1. `synergy` 
-1. `PotPlayer` 
-1. `Quicker` 
-1. `TencentMeeting` 
-1. `AnLink`
+2. `chatbox` 
+3. `VS_2017_Community` 
+4. `synergy` 
+5. `PotPlayer`  
+6. `Quicker` 
+7. `TencentMeeting` 
+8. `AnLink`
+9. `Xshell` 
