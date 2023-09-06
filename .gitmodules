@@ -82,3 +82,7 @@
 	path = CCProxy
 	url = https://github.com/gendloop/CCProxy
 	branch = main
+[submodule "v2rayN"]
+	path = v2rayN
+	url = https://github.com/gendloop/v2rayN
+	branch = main
