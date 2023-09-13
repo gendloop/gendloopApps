@@ -42,7 +42,8 @@
 11. `BeyondCompare` 
 12. `Listary`
 13. `CCProxy`
-14. `v2rayN` 
+14. `v2rayN`
+15. `glink` 
 
 ## Installers
 
