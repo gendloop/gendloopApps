@@ -90,3 +90,7 @@
 	path = Xshell
 	url = https://github.com/gendloop/Xshell
 	branch = main
+[submodule "glink"]
+	path = glink
+	url = https://github.com/gendloop/glink
+	branch = main
