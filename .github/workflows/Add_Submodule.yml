@@ -28,7 +28,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: add-submodule
-        uses: gendloop/add-submodule@main
+        uses: gendloop/add-submodule@v1.0.0
         with:
           label: ${{ inputs.label }}
           repo_name: ${{ inputs.repo_name }}
