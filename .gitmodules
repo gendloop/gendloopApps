@@ -94,3 +94,7 @@
 	path = glink
 	url = https://github.com/gendloop/glink
 	branch = main
+[submodule "Umi-OCR"]
+	path = Umi-OCR
+	url = https://github.com/gendloop/Umi-OCR
+	branch = main
