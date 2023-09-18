@@ -44,7 +44,8 @@
 12. `Listary`
 13. `CCProxy`
 14. `v2rayN`
-15. `glink` 
+15. `glink`
+16. `Umi-OCR` 
 
 ## Installers
 
