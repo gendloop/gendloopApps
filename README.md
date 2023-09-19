@@ -46,7 +46,8 @@
 13. `CCProxy`
 14. `v2rayN`
 15. `glink`
-16. `Umi-OCR` 
+16. `Umi-OCR`
+17. `sublime_text` 
 
 ## Installers
 
