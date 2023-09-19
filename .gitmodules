@@ -98,3 +98,7 @@
 	path = Umi-OCR
 	url = https://github.com/gendloop/Umi-OCR
 	branch = main
+[submodule "sublime_text"]
+	path = sublime_text
+	url = https://github.com/gendloop/sublime_text
+	branch = main
