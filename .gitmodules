@@ -102,3 +102,7 @@
 	path = sublime_text
 	url = https://github.com/gendloop/sublime_text
 	branch = main
+[submodule "DingTalk"]
+	path = DingTalk
+	url = https://github.com/gendloop/DingTalk
+	branch = main
