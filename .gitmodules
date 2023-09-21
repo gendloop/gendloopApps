@@ -106,3 +106,7 @@
 	path = DingTalk
 	url = https://github.com/gendloop/DingTalk
 	branch = main
+[submodule "FileConverter"]
+	path = FileConverter
+	url = https://github.com/gendloop/FileConverter
+	branch = main
