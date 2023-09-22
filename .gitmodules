@@ -110,3 +110,7 @@
 	path = FileConverter
 	url = https://github.com/gendloop/FileConverter
 	branch = main
+[submodule "WeGame"]
+	path = WeGame
+	url = https://github.com/gendloop/WeGame
+	branch = main
