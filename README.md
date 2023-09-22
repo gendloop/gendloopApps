@@ -1,5 +1,6 @@
 # gendloopApps
 
+[![WeGame](https://img.shields.io/static/v1?label=Apps&message=WeGame&color=blue)](https://github.com/gendloop/WeGame/tree/main) 
 [![FileConverter](https://img.shields.io/static/v1?label=Apps&message=FileConverter&color=blue)](https://github.com/gendloop/FileConverter/tree/main) 
 [![DingTalk](https://img.shields.io/static/v1?label=Apps&message=DingTalk&color=blue)](https://github.com/gendloop/DingTalk/tree/main) 
 [![sublime_text](https://img.shields.io/static/v1?label=Apps&message=sublime_text&color=blue)](https://github.com/gendloop/sublime_text/tree/main) 
