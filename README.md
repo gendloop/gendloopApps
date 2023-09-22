@@ -64,4 +64,5 @@
 8. `AnLink`
 9. `Xshell`
 10. `DingTalk`
-11. `FileConverter` 
+11. `FileConverter`
+12. `WeGame` 
