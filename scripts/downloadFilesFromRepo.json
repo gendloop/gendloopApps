@@ -90,6 +90,17 @@
             "branch": "main",
             "is_private": false,
             "token": ""
+        },
+        {
+            "files": [
+                "Delete_Submodules.yml"
+            ],
+            "local_dir": "../.github/workflows",
+            "user": "gendloop",
+            "repo": "delete-submodules",
+            "branch": "main",
+            "is_private": false,
+            "token": ""
         }
     ]
 }
