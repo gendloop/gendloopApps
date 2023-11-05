@@ -1,68 +1,34 @@
 # gendloopApps
 
-[![WeGame](https://img.shields.io/static/v1?label=Apps&message=WeGame&color=blue)](https://github.com/gendloop/WeGame/tree/main) 
-[![FileConverter](https://img.shields.io/static/v1?label=Apps&message=FileConverter&color=blue)](https://github.com/gendloop/FileConverter/tree/main) 
-[![DingTalk](https://img.shields.io/static/v1?label=Apps&message=DingTalk&color=blue)](https://github.com/gendloop/DingTalk/tree/main) 
-[![sublime_text](https://img.shields.io/static/v1?label=Apps&message=sublime_text&color=blue)](https://github.com/gendloop/sublime_text/tree/main) 
-[![Umi-OCR](https://img.shields.io/static/v1?label=Apps&message=Umi-OCR&color=blue)](https://github.com/gendloop/Umi-OCR/tree/main) 
-[![glink](https://img.shields.io/static/v1?label=Apps&message=glink&color=blue)](https://github.com/gendloop/glink/tree/main) 
-[![Xshell](https://img.shields.io/static/v1?label=Apps&message=Xshell&color=blue)](https://github.com/gendloop/Xshell/tree/main) 
-[![v2rayN](https://img.shields.io/static/v1?label=Apps&message=v2rayN&color=blue)](https://github.com/gendloop/v2rayN/tree/main) 
-[![CCProxy](https://img.shields.io/static/v1?label=Apps&message=CCProxy&color=blue)](https://github.com/gendloop/CCProxy/tree/main) 
-[![AnLink](https://img.shields.io/static/v1?label=Apps&message=AnLink&color=blue)](https://github.com/gendloop/AnLink/tree/main) 
-[![TencentMeeting](https://img.shields.io/static/v1?label=Apps&message=TencentMeeting&color=blue)](https://github.com/gendloop/TencentMeeting/tree/main) 
-[![Quicker](https://img.shields.io/static/v1?label=Apps&message=Quicker&color=blue)](https://github.com/gendloop/Quicker/tree/main) 
-[![PotPlayer](https://img.shields.io/static/v1?label=Apps&message=PotPlayer&color=blue)](https://github.com/gendloop/PotPlayer/tree/main) 
-[![synergy](https://img.shields.io/static/v1?label=Apps&message=synergy&color=blue)](https://github.com/gendloop/synergy/tree/main) 
-[![Listary](https://img.shields.io/static/v1?label=Apps&message=Listary&color=blue)](https://github.com/gendloop/Listary/tree/main) 
-[![BeyondCompare](https://img.shields.io/static/v1?label=Apps&message=BeyondCompare&color=blue)](https://github.com/gendloop/BeyondCompare/tree/main) 
-[![VS_2017_Community](https://img.shields.io/static/v1?label=Apps&message=VS_2017_Community&color=blue)](https://github.com/gendloop/VS_2017_Community/tree/main) 
-[![EdgeGo](https://img.shields.io/static/v1?label=Apps&message=EdgeGo&color=blue)](https://github.com/gendloop/EdgeGo/tree/main) 
-[![ALiCloudDisk](https://img.shields.io/static/v1?label=Apps&message=ALiCloudDisk&color=blue)](https://github.com/gendloop/ALiCloudDisk/tree/main) 
-[![chatbox](https://img.shields.io/static/v1?label=Apps&message=chatbox&color=blue)](https://github.com/gendloop/chatbox/tree/main) 
-[![sogouwubi](https://img.shields.io/static/v1?label=Apps&message=sogouwubi&color=blue)](https://github.com/gendloop/sogouwubi/tree/main) 
-[![steamcommunity](https://img.shields.io/static/v1?label=Apps&message=steamcommunity&color=blue)](https://github.com/gendloop/steamcommunity/tree/main) 
-[![YuQue](https://img.shields.io/static/v1?label=Apps&message=YuQue&color=blue)](https://github.com/gendloop/YuQue/tree/main) 
-[![KMS](https://img.shields.io/static/v1?label=Apps&message=KMS&color=blue)](https://github.com/gendloop/KMS/tree/main) 
-[![IObitUnlocker](https://img.shields.io/static/v1?label=Apps&message=IObitUnlocker&color=blue)](https://github.com/gendloop/IObitUnlocker/tree/main) 
-[![geek](https://img.shields.io/static/v1?label=Apps&message=geek&color=blue)](https://github.com/gendloop/geek/tree/main) 
-[![Typora](https://img.shields.io/static/v1?label=Apps&message=Typora&color=blue)](https://github.com/gendloop/Typora/tree/main) 
-[![fastgithub](https://img.shields.io/static/v1?label=Apps&message=fastgithub&color=blue)](https://github.com/gendloop/fastgithub/tree/main) 
-[![NeatDM](https://img.shields.io/static/v1?label=Apps&message=NeatDM&color=blue)](https://github.com/gendloop/NeatDM/tree/main) 
-
-[gendloopBucket](https://github.com/gendloop/gendloopBucket) 
-
-## Apps
-
-1. `fastgithub` 
-2. `geek` 
-3. `IObitUnlocker` 
-4. `KMS` 
-5. `NeatDM` 
-6. `steamcommunity` 
-7. `Typora` 
-8. `YuQue` 
-9. `ALiCloudDisk` 
-10. `EdgeGo` 
-11. `BeyondCompare` 
-12. `Listary`
-13. `CCProxy`
-14. `v2rayN`
-15. `glink`
-16. `Umi-OCR`
-17. `sublime_text` 
-
-## Installers
-
-1. `sogouwubi` 
-2. `chatbox` 
-3. `VS_2017_Community` 
-4. `synergy` 
-5. `PotPlayer`  
-6. `Quicker` 
-7. `TencentMeeting` 
-8. `AnLink`
-9. `Xshell`
-10. `DingTalk`
-11. `FileConverter`
-12. `WeGame` 
+| **Num** | **Repo** | **Description** |
+| ---- | ---- | ---- |
+| 1 | [![Xshell](https://img.shields.io/static/v1?label=App&message=Xshell&color=blue)](https://github.com/gendloop/Xshell)| Xshell |
+| 2 | [![synergy](https://img.shields.io/static/v1?label=App&message=synergy&color=blue)](https://github.com/gendloop/synergy)| Synergy |
+| 3 | [![v2rayN](https://img.shields.io/static/v1?label=App&message=v2rayN&color=blue)](https://github.com/gendloop/v2rayN)| v2rayN |
+| 4 | [![gendloopApps](https://img.shields.io/static/v1?label=App&message=gendloopApps&color=blue)](https://github.com/gendloop/gendloopApps)| gendloop's apps |
+| 5 | [![Quicker](https://img.shields.io/static/v1?label=App&message=Quicker&color=blue)](https://github.com/gendloop/Quicker)| Quicker |
+| 6 | [![Listary](https://img.shields.io/static/v1?label=App&message=Listary&color=blue)](https://github.com/gendloop/Listary)| Listary 文件搜索 |
+| 7 | [![DingTalk](https://img.shields.io/static/v1?label=App&message=DingTalk&color=blue)](https://github.com/gendloop/DingTalk)| 钉钉 |
+| 8 | [![FileConverter](https://img.shields.io/static/v1?label=App&message=FileConverter&color=blue)](https://github.com/gendloop/FileConverter)| FileConverter |
+| 9 | [![WeGame](https://img.shields.io/static/v1?label=App&message=WeGame&color=blue)](https://github.com/gendloop/WeGame)| WeGame |
+| 10 | [![VS_2017_Community](https://img.shields.io/static/v1?label=App&message=VS_2017_Community&color=blue)](https://github.com/gendloop/VS_2017_Community)|  |
+| 11 | [![EdgeGo](https://img.shields.io/static/v1?label=App&message=EdgeGo&color=blue)](https://github.com/gendloop/EdgeGo)| EdgeGo 翻墙 |
+| 12 | [![fastgithub](https://img.shields.io/static/v1?label=App&message=fastgithub&color=blue)](https://github.com/gendloop/fastgithub)| fastgithub (github访问加速) |
+| 13 | [![ALiCloudDisk](https://img.shields.io/static/v1?label=App&message=ALiCloudDisk&color=blue)](https://github.com/gendloop/ALiCloudDisk)| 阿里云盘 |
+| 14 | [![sublime_text](https://img.shields.io/static/v1?label=App&message=sublime_text&color=blue)](https://github.com/gendloop/sublime_text)| Sublime Text 3 |
+| 15 | [![YuQue](https://img.shields.io/static/v1?label=App&message=YuQue&color=blue)](https://github.com/gendloop/YuQue)| 语雀 |
+| 16 | [![Typora](https://img.shields.io/static/v1?label=App&message=Typora&color=blue)](https://github.com/gendloop/Typora)| Typora (markdown编辑器) |
+| 17 | [![glink](https://img.shields.io/static/v1?label=App&message=glink&color=blue)](https://github.com/gendloop/glink)| glink |
+| 18 | [![KMS](https://img.shields.io/static/v1?label=App&message=KMS&color=blue)](https://github.com/gendloop/KMS)| KMS (Windows激活工具) |
+| 19 | [![IObitUnlocker](https://img.shields.io/static/v1?label=App&message=IObitUnlocker&color=blue)](https://github.com/gendloop/IObitUnlocker)| Unlocker (文件(夹)解除占用) |
+| 20 | [![TencentMeeting](https://img.shields.io/static/v1?label=App&message=TencentMeeting&color=blue)](https://github.com/gendloop/TencentMeeting)| 腾迅会议 |
+| 21 | [![CCProxy](https://img.shields.io/static/v1?label=App&message=CCProxy&color=blue)](https://github.com/gendloop/CCProxy)| CCProxy |
+| 22 | [![BeyondCompare](https://img.shields.io/static/v1?label=App&message=BeyondCompare&color=blue)](https://github.com/gendloop/BeyondCompare)| BeyondCompare 文件(夹)比较 |
+| 23 | [![sogouwubi](https://img.shields.io/static/v1?label=App&message=sogouwubi&color=blue)](https://github.com/gendloop/sogouwubi)| 搜狗五笔输入法 |
+| 24 | [![PotPlayer](https://img.shields.io/static/v1?label=App&message=PotPlayer&color=blue)](https://github.com/gendloop/PotPlayer)| PotPlayer 视频播放器 |
+| 25 | [![Umi-OCR](https://img.shields.io/static/v1?label=App&message=Umi-OCR&color=blue)](https://github.com/gendloop/Umi-OCR)| Umi-OCR |
+| 26 | [![steamcommunity](https://img.shields.io/static/v1?label=App&message=steamcommunity&color=blue)](https://github.com/gendloop/steamcommunity)| steamcommunity (github加速) |
+| 27 | [![NeatDM](https://img.shields.io/static/v1?label=App&message=NeatDM&color=blue)](https://github.com/gendloop/NeatDM)| 下载器 |
+| 28 | [![geek](https://img.shields.io/static/v1?label=App&message=geek&color=blue)](https://github.com/gendloop/geek)| geek (程序卸载工具) |
+| 29 | [![chatbox](https://img.shields.io/static/v1?label=App&message=chatbox&color=blue)](https://github.com/gendloop/chatbox)| chatbox (Chat GPT) |
+| 30 | [![AnLink](https://img.shields.io/static/v1?label=App&message=AnLink&color=blue)](https://github.com/gendloop/AnLink)| AnLink |
