@@ -79,6 +79,17 @@
             "branch": "main",
             "is_private": false,
             "token": ""
+        },
+        {
+            "files": [
+                "Get_Repos_By_Topics.yml"
+            ],
+            "local_dir": "../.github/workflows",
+            "user": "gendloop",
+            "repo": "get-repos-by-topics",
+            "branch": "main",
+            "is_private": false,
+            "token": ""
         }
     ]
 }
