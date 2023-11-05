@@ -1,34 +1,70 @@
 {
-  "name": "Xshell",
-  "description": "Xshell"
+  "name": "sublime_text",
+  "description": "Sublime Text 3"
 }
 {
-  "name": "synergy",
-  "description": "Synergy"
+  "name": "YuQue",
+  "description": "语雀"
 }
 {
-  "name": "v2rayN",
-  "description": "v2rayN"
-}
-{
-  "name": "gendloopApps",
-  "description": "gendloop's apps"
-}
-{
-  "name": "Quicker",
-  "description": "Quicker"
-}
-{
-  "name": "Listary",
-  "description": "Listary 文件搜索"
+  "name": "Typora",
+  "description": "Typora (markdown编辑器)"
 }
 {
   "name": "DingTalk",
   "description": "钉钉"
 }
 {
+  "name": "Listary",
+  "description": "Listary 文件搜索"
+}
+{
+  "name": "ClashForWindows",
+  "description": "ClashForWindows"
+}
+{
+  "name": "v2rayN",
+  "description": "v2rayN"
+}
+{
+  "name": "Rime",
+  "description": "小狼毫输入法"
+}
+{
+  "name": "Quicker",
+  "description": "Quicker"
+}
+{
+  "name": "depends",
+  "description": "Dependency Walker"
+}
+{
   "name": "FileConverter",
   "description": "FileConverter"
+}
+{
+  "name": "NutStore",
+  "description": "坚果云"
+}
+{
+  "name": "synergy",
+  "description": "Synergy"
+}
+{
+  "name": "Xshell",
+  "description": "Xshell"
+}
+{
+  "name": "FreeCAD",
+  "description": "FreeCAD"
+}
+{
+  "name": "HuoRong",
+  "description": "火绒"
+}
+{
+  "name": "wps",
+  "description": "wps"
 }
 {
   "name": "WeGame",
@@ -51,20 +87,16 @@
   "description": "阿里云盘"
 }
 {
-  "name": "sublime_text",
-  "description": "Sublime Text 3"
-}
-{
-  "name": "YuQue",
-  "description": "语雀"
-}
-{
-  "name": "Typora",
-  "description": "Typora (markdown编辑器)"
+  "name": "BaiduNetDisk",
+  "description": "百度网盘"
 }
 {
   "name": "glink",
   "description": "glink"
+}
+{
+  "name": "VisualCplusplus6.0",
+  "description": "Visual C++ 6.0"
 }
 {
   "name": "KMS",
@@ -75,46 +107,14 @@
   "description": "Unlocker (文件(夹)解除占用)"
 }
 {
-  "name": "TencentMeeting",
-  "description": "腾迅会议"
-}
-{
-  "name": "CCProxy",
-  "description": "CCProxy"
-}
-{
-  "name": "BeyondCompare",
-  "description": "BeyondCompare 文件(夹)比较"
-}
-{
   "name": "sogouwubi",
   "description": "搜狗五笔输入法"
 }
 {
-  "name": "PotPlayer",
-  "description": "PotPlayer 视频播放器"
-}
-{
-  "name": "Umi-OCR",
-  "description": "Umi-OCR"
-}
-{
-  "name": "steamcommunity",
-  "description": "steamcommunity (github加速)"
+  "name": "LeidianSimulator",
+  "description": "雷电模拟器"
 }
 {
   "name": "NeatDM",
   "description": "下载器"
-}
-{
-  "name": "geek",
-  "description": "geek (程序卸载工具)"
-}
-{
-  "name": "chatbox",
-  "description": "chatbox (Chat GPT)"
-}
-{
-  "name": "AnLink",
-  "description": "AnLink"
 }
