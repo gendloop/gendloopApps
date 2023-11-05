@@ -1,14 +1,46 @@
 {
-  "name": "sublime_text",
-  "description": "Sublime Text 3"
+  "name": "v2rayN",
+  "description": "v2rayN"
 }
 {
-  "name": "YuQue",
-  "description": "语雀"
+  "name": "Quicker",
+  "description": "Quicker"
 }
 {
-  "name": "Typora",
-  "description": "Typora (markdown编辑器)"
+  "name": "depends",
+  "description": "Dependency Walker"
+}
+{
+  "name": "Rime",
+  "description": "小狼毫输入法"
+}
+{
+  "name": "Xshell",
+  "description": "Xshell"
+}
+{
+  "name": "FreeCAD",
+  "description": "FreeCAD"
+}
+{
+  "name": "synergy",
+  "description": "Synergy"
+}
+{
+  "name": "HuoRong",
+  "description": "火绒"
+}
+{
+  "name": "wps",
+  "description": "wps"
+}
+{
+  "name": "FileConverter",
+  "description": "FileConverter"
+}
+{
+  "name": "NutStore",
+  "description": "坚果云"
 }
 {
   "name": "DingTalk",
@@ -23,48 +55,16 @@
   "description": "ClashForWindows"
 }
 {
-  "name": "v2rayN",
-  "description": "v2rayN"
+  "name": "sublime_text",
+  "description": "Sublime Text 3"
 }
 {
-  "name": "Rime",
-  "description": "小狼毫输入法"
+  "name": "Typora",
+  "description": "Typora (markdown编辑器)"
 }
 {
-  "name": "Quicker",
-  "description": "Quicker"
-}
-{
-  "name": "depends",
-  "description": "Dependency Walker"
-}
-{
-  "name": "FileConverter",
-  "description": "FileConverter"
-}
-{
-  "name": "NutStore",
-  "description": "坚果云"
-}
-{
-  "name": "synergy",
-  "description": "Synergy"
-}
-{
-  "name": "Xshell",
-  "description": "Xshell"
-}
-{
-  "name": "FreeCAD",
-  "description": "FreeCAD"
-}
-{
-  "name": "HuoRong",
-  "description": "火绒"
-}
-{
-  "name": "wps",
-  "description": "wps"
+  "name": "YuQue",
+  "description": "语雀"
 }
 {
   "name": "WeGame",
@@ -91,12 +91,12 @@
   "description": "百度网盘"
 }
 {
-  "name": "glink",
-  "description": "glink"
-}
-{
   "name": "VisualCplusplus6.0",
   "description": "Visual C++ 6.0"
+}
+{
+  "name": "glink",
+  "description": "glink"
 }
 {
   "name": "KMS",
@@ -107,14 +107,14 @@
   "description": "Unlocker (文件(夹)解除占用)"
 }
 {
-  "name": "sogouwubi",
-  "description": "搜狗五笔输入法"
+  "name": "Umi-OCR",
+  "description": "Umi-OCR"
 }
 {
-  "name": "LeidianSimulator",
-  "description": "雷电模拟器"
+  "name": "PotPlayer",
+  "description": "PotPlayer 视频播放器"
 }
 {
-  "name": "NeatDM",
-  "description": "下载器"
+  "name": "BandicamPortable",
+  "description": "录屏工具"
 }
