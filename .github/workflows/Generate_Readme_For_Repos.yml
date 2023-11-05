@@ -1,0 +1,24 @@
+name: Generate_Readme_For_Repos
+
+permissions:
+  contents: write
+  actions: write
+
+on: 
+  workflow_dispatch:
+    inputs:
+      label: 
+        description: 'Label'
+        required: true
+        type: string
+
+jobs:
+  generate_readme_for_repos:
+    runs-on: ubuntu-latest
+    steps:
+      - name: generate-readme-for-repos
+        uses: gendloop/generate-readme-for-repos@v1.0.0
+        with: 
+          label: ${{ inputs.label }}
+
+      

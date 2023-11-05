@@ -1,0 +1,27 @@
+name: Get_Repos_By_Topics
+
+permissions:
+  contents: write
+  actions: write
+
+on: 
+  workflow_dispatch:
+    inputs:
+      topics:
+        description: 'Topics("topic:action","topic:action+topic:private")'
+        required: true
+        type: string
+  # schedule:
+  #   - cron: '35 18 * * 1'
+
+jobs:
+  template_name:
+    runs-on: ubuntu-latest
+    steps:
+      - name: get-repos-by-topics
+        uses: gendloop/get-repos-by-topics@v1.0.0
+        with: 
+          token: ${{ secrets.GENDLOOP_ACCESS_TOKEN }}
+          topics: ${{ inputs.topics }}
+
+      
