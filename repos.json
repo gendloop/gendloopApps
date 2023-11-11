@@ -1,30 +1,34 @@
 {
+  "name": "fastgithub",
+  "description": "fastgithub (github访问加速)"
+}
+{
   "name": "v2rayN",
   "description": "v2rayN"
-}
-{
-  "name": "Quicker",
-  "description": "Quicker"
-}
-{
-  "name": "depends",
-  "description": "Dependency Walker"
 }
 {
   "name": "Rime",
   "description": "小狼毫输入法"
 }
 {
+  "name": "depends",
+  "description": "Dependency Walker"
+}
+{
+  "name": "Quicker",
+  "description": "Quicker"
+}
+{
   "name": "Xshell",
   "description": "Xshell"
 }
 {
-  "name": "FreeCAD",
-  "description": "FreeCAD"
-}
-{
   "name": "synergy",
   "description": "Synergy"
+}
+{
+  "name": "FreeCAD",
+  "description": "FreeCAD"
 }
 {
   "name": "HuoRong",
@@ -33,26 +37,6 @@
 {
   "name": "wps",
   "description": "wps"
-}
-{
-  "name": "FileConverter",
-  "description": "FileConverter"
-}
-{
-  "name": "NutStore",
-  "description": "坚果云"
-}
-{
-  "name": "DingTalk",
-  "description": "钉钉"
-}
-{
-  "name": "Listary",
-  "description": "Listary 文件搜索"
-}
-{
-  "name": "ClashForWindows",
-  "description": "ClashForWindows"
 }
 {
   "name": "sublime_text",
@@ -67,20 +51,84 @@
   "description": "语雀"
 }
 {
-  "name": "WeGame",
-  "description": "WeGame"
+  "name": "FileConverter",
+  "description": "FileConverter"
 }
 {
-  "name": "VS_2017_Community",
-  "description": null
+  "name": "NutStore",
+  "description": "坚果云"
+}
+{
+  "name": "VisualCplusplus6.0",
+  "description": "Visual C++ 6.0"
+}
+{
+  "name": "IObitUnlocker",
+  "description": "Unlocker (文件(夹)解除占用)"
+}
+{
+  "name": "KMS",
+  "description": "KMS (Windows激活工具)"
+}
+{
+  "name": "glink",
+  "description": "glink"
+}
+{
+  "name": "Listary",
+  "description": "Listary 文件搜索"
+}
+{
+  "name": "DingTalk",
+  "description": "钉钉"
+}
+{
+  "name": "ClashForWindows",
+  "description": "ClashForWindows"
+}
+{
+  "name": "ListaryPro",
+  "description": "Listary Pro"
+}
+{
+  "name": "sogouwubi",
+  "description": "搜狗五笔输入法"
+}
+{
+  "name": "LeidianSimulator",
+  "description": "雷电模拟器"
+}
+{
+  "name": "AnLink",
+  "description": "AnLink"
+}
+{
+  "name": "TencentMeeting",
+  "description": "腾迅会议"
+}
+{
+  "name": "CCProxy",
+  "description": "CCProxy"
+}
+{
+  "name": "HtmlHelpWorkshop",
+  "description": "HtmlHelpWorkshop"
+}
+{
+  "name": "BeyondCompare",
+  "description": "BeyondCompare 文件(夹)比较"
+}
+{
+  "name": "WeGame",
+  "description": "WeGame"
 }
 {
   "name": "EdgeGo",
   "description": "EdgeGo 翻墙"
 }
 {
-  "name": "fastgithub",
-  "description": "fastgithub (github访问加速)"
+  "name": "VS_2017_Community",
+  "description": null
 }
 {
   "name": "ALiCloudDisk",
@@ -91,30 +139,42 @@
   "description": "百度网盘"
 }
 {
-  "name": "VisualCplusplus6.0",
-  "description": "Visual C++ 6.0"
+  "name": "Sun",
+  "description": "向日葵"
 }
 {
-  "name": "glink",
-  "description": "glink"
+  "name": "Qt",
+  "description": "Qt"
 }
 {
-  "name": "KMS",
-  "description": "KMS (Windows激活工具)"
+  "name": "chatbox",
+  "description": "chatbox (Chat GPT)"
 }
 {
-  "name": "IObitUnlocker",
-  "description": "Unlocker (文件(夹)解除占用)"
+  "name": "geek",
+  "description": "geek (程序卸载工具)"
+}
+{
+  "name": "MacriumReflect",
+  "description": "系统映像制作"
 }
 {
   "name": "Umi-OCR",
   "description": "Umi-OCR"
 }
 {
-  "name": "PotPlayer",
-  "description": "PotPlayer 视频播放器"
+  "name": "steamcommunity",
+  "description": "steamcommunity (github加速)"
 }
 {
   "name": "BandicamPortable",
   "description": "录屏工具"
+}
+{
+  "name": "PotPlayer",
+  "description": "PotPlayer 视频播放器"
+}
+{
+  "name": "NeatDM",
+  "description": "下载器"
 }
