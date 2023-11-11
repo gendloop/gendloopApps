@@ -15,11 +15,11 @@ on:
   #   - cron: '35 18 * * 1'
 
 jobs:
-  template_name:
+  get_repos_by_topics:
     runs-on: ubuntu-latest
     steps:
       - name: get-repos-by-topics
-        uses: gendloop/get-repos-by-topics@v1.0.0
+        uses: gendloop/get-repos-by-topics@v1.0.1
         with: 
           token: ${{ secrets.GENDLOOP_ACCESS_TOKEN }}
           topics: ${{ inputs.topics }}
