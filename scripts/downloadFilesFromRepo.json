@@ -101,17 +101,6 @@
             "branch": "main",
             "is_private": false,
             "token": ""
-        },
-        {
-            "files": [
-                "Generate_Readme_For_Repos.yml"
-            ],
-            "local_dir": "../.github/workflows",
-            "user": "gendloop",
-            "repo": "generate-readme-for-repos",
-            "branch": "main",
-            "is_private": false,
-            "token": ""
         }
     ]
 }
