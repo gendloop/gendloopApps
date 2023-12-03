@@ -7,6 +7,10 @@
   "description": "EdgeGo 翻墙"
 }
 {
+  "name": "v2rayN",
+  "description": "v2rayN"
+}
+{
   "name": "Quicker",
   "description": "Quicker"
 }
@@ -19,8 +23,24 @@
   "description": "小狼毫输入法"
 }
 {
-  "name": "v2rayN",
-  "description": "v2rayN"
+  "name": "synergy",
+  "description": "Synergy"
+}
+{
+  "name": "Xshell",
+  "description": "Xshell"
+}
+{
+  "name": "FreeCAD",
+  "description": "FreeCAD"
+}
+{
+  "name": "HuoRong",
+  "description": "火绒"
+}
+{
+  "name": "wps",
+  "description": "wps"
 }
 {
   "name": "FileConverter",
@@ -31,40 +51,12 @@
   "description": "坚果云"
 }
 {
-  "name": "Xshell",
-  "description": "Xshell"
-}
-{
-  "name": "synergy",
-  "description": "Synergy"
-}
-{
-  "name": "HuoRong",
-  "description": "火绒"
-}
-{
-  "name": "FreeCAD",
-  "description": "FreeCAD"
-}
-{
-  "name": "wps",
-  "description": "wps"
-}
-{
-  "name": "Typora",
-  "description": "Typora (markdown编辑器)"
-}
-{
-  "name": "YuQue",
-  "description": "语雀"
-}
-{
-  "name": "sublime_text",
-  "description": "Sublime Text 3"
-}
-{
   "name": "Listary",
   "description": "Listary 文件搜索"
+}
+{
+  "name": "ListaryPro",
+  "description": "Listary Pro"
 }
 {
   "name": "ClashForWindows",
@@ -75,16 +67,16 @@
   "description": "钉钉"
 }
 {
-  "name": "ListaryPro",
-  "description": "Listary Pro"
+  "name": "YuQue",
+  "description": "语雀"
 }
 {
-  "name": "VS_2017_Community",
-  "description": null
+  "name": "Typora",
+  "description": "Typora (markdown编辑器)"
 }
 {
-  "name": "WeGame",
-  "description": "WeGame"
+  "name": "sublime_text",
+  "description": "Sublime Text 3"
 }
 {
   "name": "ALiCloudDisk",
@@ -95,20 +87,12 @@
   "description": "百度网盘"
 }
 {
-  "name": "IObitUnlocker",
-  "description": "Unlocker (文件(夹)解除占用)"
+  "name": "WeGame",
+  "description": "WeGame"
 }
 {
-  "name": "KMS",
-  "description": "KMS (Windows激活工具)"
-}
-{
-  "name": "glink",
-  "description": "glink"
-}
-{
-  "name": "VisualCplusplus6.0",
-  "description": "Visual C++ 6.0"
+  "name": "VS_2017_Community",
+  "description": "VS 2017 Community"
 }
 {
   "name": "steamcommunity",
@@ -127,16 +111,28 @@
   "description": "录屏工具"
 }
 {
+  "name": "IObitUnlocker",
+  "description": "Unlocker (文件(夹)解除占用)"
+}
+{
+  "name": "KMS",
+  "description": "KMS (Windows激活工具)"
+}
+{
+  "name": "glink",
+  "description": "glink"
+}
+{
+  "name": "VisualCplusplus6.0",
+  "description": "Visual C++ 6.0"
+}
+{
   "name": "sogouwubi",
   "description": "搜狗五笔输入法"
 }
 {
   "name": "LeidianSimulator",
   "description": "雷电模拟器"
-}
-{
-  "name": "AnLink",
-  "description": "AnLink"
 }
 {
   "name": "Qt",
@@ -147,28 +143,32 @@
   "description": "向日葵"
 }
 {
-  "name": "chatbox",
-  "description": "chatbox (Chat GPT)"
-}
-{
-  "name": "geek",
-  "description": "geek (程序卸载工具)"
-}
-{
-  "name": "MacriumReflect",
-  "description": "系统映像制作"
+  "name": "AnLink",
+  "description": "AnLink"
 }
 {
   "name": "NeatDM",
   "description": "下载器"
 }
 {
-  "name": "TencentMeeting",
-  "description": "腾迅会议"
+  "name": "geek",
+  "description": "geek (程序卸载工具)"
+}
+{
+  "name": "chatbox",
+  "description": "chatbox (Chat GPT)"
+}
+{
+  "name": "MacriumReflect",
+  "description": "系统映像制作"
 }
 {
   "name": "BeyondCompare",
   "description": "BeyondCompare 文件(夹)比较"
+}
+{
+  "name": "TencentMeeting",
+  "description": "腾迅会议"
 }
 {
   "name": "CCProxy",
