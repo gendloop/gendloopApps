@@ -3,6 +3,14 @@
   "description": "fastgithub (github访问加速)"
 }
 {
+  "name": "ClashForWindows",
+  "description": "ClashForWindows"
+}
+{
+  "name": "ListaryPro",
+  "description": "Listary Pro"
+}
+{
   "name": "EdgeGo",
   "description": "EdgeGo 翻墙"
 }
@@ -31,12 +39,12 @@
   "description": "Xshell"
 }
 {
-  "name": "FreeCAD",
-  "description": "FreeCAD"
-}
-{
   "name": "HuoRong",
   "description": "火绒"
+}
+{
+  "name": "FreeCAD",
+  "description": "FreeCAD"
 }
 {
   "name": "wps",
@@ -51,28 +59,28 @@
   "description": "坚果云"
 }
 {
-  "name": "Listary",
-  "description": "Listary 文件搜索"
-}
-{
-  "name": "ListaryPro",
-  "description": "Listary Pro"
-}
-{
-  "name": "ClashForWindows",
-  "description": "ClashForWindows"
-}
-{
   "name": "DingTalk",
   "description": "钉钉"
 }
 {
-  "name": "YuQue",
-  "description": "语雀"
+  "name": "Listary",
+  "description": "Listary 文件搜索"
+}
+{
+  "name": "WeGame",
+  "description": "WeGame"
+}
+{
+  "name": "VS_2017_Community",
+  "description": "VS 2017 Community"
 }
 {
   "name": "Typora",
   "description": "Typora (markdown编辑器)"
+}
+{
+  "name": "YuQue",
+  "description": "语雀"
 }
 {
   "name": "sublime_text",
@@ -87,20 +95,12 @@
   "description": "百度网盘"
 }
 {
-  "name": "WeGame",
-  "description": "WeGame"
-}
-{
-  "name": "VS_2017_Community",
-  "description": "VS 2017 Community"
+  "name": "PotPlayer",
+  "description": "PotPlayer 视频播放器"
 }
 {
   "name": "steamcommunity",
   "description": "steamcommunity (github加速)"
-}
-{
-  "name": "PotPlayer",
-  "description": "PotPlayer 视频播放器"
 }
 {
   "name": "Umi-OCR",
@@ -127,20 +127,40 @@
   "description": "Visual C++ 6.0"
 }
 {
-  "name": "sogouwubi",
-  "description": "搜狗五笔输入法"
+  "name": "WiseReminder",
+  "description": "桌面事件提醒"
 }
 {
-  "name": "LeidianSimulator",
-  "description": "雷电模拟器"
+  "name": "CCProxy",
+  "description": "CCProxy"
+}
+{
+  "name": "TencentMeeting",
+  "description": "腾迅会议"
+}
+{
+  "name": "BeyondCompare",
+  "description": "BeyondCompare 文件(夹)比较"
+}
+{
+  "name": "HtmlHelpWorkshop",
+  "description": "HtmlHelpWorkshop"
+}
+{
+  "name": "Sun",
+  "description": "向日葵"
 }
 {
   "name": "Qt",
   "description": "Qt"
 }
 {
-  "name": "Sun",
-  "description": "向日葵"
+  "name": "sogouwubi",
+  "description": "搜狗五笔输入法"
+}
+{
+  "name": "LeidianSimulator",
+  "description": "雷电模拟器"
 }
 {
   "name": "AnLink",
@@ -161,20 +181,4 @@
 {
   "name": "MacriumReflect",
   "description": "系统映像制作"
-}
-{
-  "name": "BeyondCompare",
-  "description": "BeyondCompare 文件(夹)比较"
-}
-{
-  "name": "TencentMeeting",
-  "description": "腾迅会议"
-}
-{
-  "name": "CCProxy",
-  "description": "CCProxy"
-}
-{
-  "name": "HtmlHelpWorkshop",
-  "description": "HtmlHelpWorkshop"
 }
