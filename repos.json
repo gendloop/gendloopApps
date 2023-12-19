@@ -1,10 +1,10 @@
 {
   "name": "fastgithub",
-  "description": "fastgithub (github访问加速)"
+  "description": "fastgithub (github访问加速; 不再更新)"
 }
 {
   "name": "EdgeGo",
-  "description": "EdgeGo 翻墙"
+  "description": "EdgeGo 翻墙(v1.3.1; 不再更新)"
 }
 {
   "name": "ClashForWindows",
@@ -15,14 +15,6 @@
   "description": "Listary Pro"
 }
 {
-  "name": "v2rayN",
-  "description": "v2rayN"
-}
-{
-  "name": "Quicker",
-  "description": "Quicker"
-}
-{
   "name": "depends",
   "description": "Dependency Walker"
 }
@@ -31,12 +23,12 @@
   "description": "小狼毫输入法"
 }
 {
-  "name": "synergy",
-  "description": "Synergy"
+  "name": "v2rayN",
+  "description": "v2rayN(v6.23.0; 不再更新)"
 }
 {
-  "name": "Xshell",
-  "description": "Xshell"
+  "name": "Quicker",
+  "description": "Quicker(v1.38.35; 不再更新)"
 }
 {
   "name": "FreeCAD",
@@ -51,12 +43,40 @@
   "description": "wps"
 }
 {
+  "name": "Xshell",
+  "description": "Xshell(v7.0.0134; 不再更新)"
+}
+{
+  "name": "synergy",
+  "description": "Synergy(共用键鼠 v1.10.0; 不再更新)"
+}
+{
   "name": "WeGame",
   "description": "WeGame"
 }
 {
   "name": "VS_2017_Community",
-  "description": "VS 2017 Community"
+  "description": "VS 2017 Community(v1.4.1; 不再更新)"
+}
+{
+  "name": "sublime_text",
+  "description": "Sublime Text 3"
+}
+{
+  "name": "YuQue",
+  "description": "语雀(v2.7.3 不再更新; 后续仅更新至gendloop/YuQueInstaller)"
+}
+{
+  "name": "Typora",
+  "description": "Typora (markdown编辑器 v1.3.8; 不再更新)"
+}
+{
+  "name": "DingTalk",
+  "description": "钉钉安装包"
+}
+{
+  "name": "Listary",
+  "description": "Listary 文件搜索(v5.0.2843 不再更新; 后续仅更新至gendloop/ListaryPro)"
 }
 {
   "name": "FileConverter",
@@ -67,24 +87,24 @@
   "description": "坚果云"
 }
 {
-  "name": "Listary",
-  "description": "Listary 文件搜索"
+  "name": "WiseReminder",
+  "description": "桌面事件提醒"
 }
 {
-  "name": "DingTalk",
-  "description": "钉钉"
+  "name": "VisualCplusplus6.0",
+  "description": "Visual C++ 6.0"
 }
 {
-  "name": "YuQue",
-  "description": "语雀"
+  "name": "glink",
+  "description": "glink(标注工具)"
 }
 {
-  "name": "Typora",
-  "description": "Typora (markdown编辑器)"
+  "name": "IObitUnlocker",
+  "description": "Unlocker (文件(夹)解除占用 v1.3.0; 不再更新)"
 }
 {
-  "name": "sublime_text",
-  "description": "Sublime Text 3"
+  "name": "KMS",
+  "description": "KMS (Windows激活工具 v24.6.1; 不再更新)"
 }
 {
   "name": "Qt",
@@ -95,36 +115,16 @@
   "description": "向日葵"
 }
 {
-  "name": "IObitUnlocker",
-  "description": "Unlocker (文件(夹)解除占用)"
+  "name": "AnLink",
+  "description": "AnLink(手机投屏与控制) v1.0.0; 不再更新"
 }
 {
-  "name": "KMS",
-  "description": "KMS (Windows激活工具)"
+  "name": "BaiduNetDisk",
+  "description": "百度网盘"
 }
 {
-  "name": "glink",
-  "description": "glink"
-}
-{
-  "name": "WiseReminder",
-  "description": "桌面事件提醒"
-}
-{
-  "name": "VisualCplusplus6.0",
-  "description": "Visual C++ 6.0"
-}
-{
-  "name": "BeyondCompare",
-  "description": "BeyondCompare 文件(夹)比较"
-}
-{
-  "name": "TencentMeeting",
-  "description": "腾迅会议"
-}
-{
-  "name": "CCProxy",
-  "description": "CCProxy"
+  "name": "ALiCloudDisk",
+  "description": "阿里云盘 v2.2.8; 不再更新"
 }
 {
   "name": "YuQueInstaller",
@@ -135,32 +135,44 @@
   "description": "HtmlHelpWorkshop"
 }
 {
-  "name": "ALiCloudDisk",
-  "description": "阿里云盘"
+  "name": "TencentMeeting",
+  "description": "腾迅会议 v3.18.6; 不再更新"
 }
 {
-  "name": "BaiduNetDisk",
-  "description": "百度网盘"
+  "name": "BeyondCompare",
+  "description": "BeyondCompare 文件(夹)比较 v4.4.2; 不再更新"
 }
 {
-  "name": "NeatDM",
-  "description": "下载器"
+  "name": "CCProxy",
+  "description": "CCProxy v8.0.0; 不再更新"
 }
 {
   "name": "TTKMusicPlayer",
-  "description": "音乐播放器"
+  "description": "音乐播放器,仿酷狗"
 }
 {
-  "name": "AnLink",
-  "description": "AnLink"
+  "name": "NeatDM",
+  "description": "NeatDM下载器 v1.4.20; 不再更新"
 }
 {
-  "name": "steamcommunity",
-  "description": "steamcommunity (github加速)"
+  "name": "MacriumReflect",
+  "description": "系统映像制作"
 }
 {
-  "name": "PotPlayer",
-  "description": "PotPlayer 视频播放器"
+  "name": "geek",
+  "description": "geek (程序卸载工具) v1.5.1; 不再更新"
+}
+{
+  "name": "chatbox",
+  "description": "chatbox (Chat GPT) v0.6.2; 不再更新"
+}
+{
+  "name": "LeidianSimulator",
+  "description": "雷电模拟器"
+}
+{
+  "name": "sogouwubi",
+  "description": "搜狗五笔输入法 v5.5.0; 不再更新; 改用 gendloop/Rime"
 }
 {
   "name": "Umi-OCR",
@@ -171,22 +183,10 @@
   "description": "录屏工具"
 }
 {
-  "name": "sogouwubi",
-  "description": "搜狗五笔输入法"
+  "name": "steamcommunity",
+  "description": "steamcommunity (github加速) v12.0.3; 不再更新"
 }
 {
-  "name": "LeidianSimulator",
-  "description": "雷电模拟器"
-}
-{
-  "name": "geek",
-  "description": "geek (程序卸载工具)"
-}
-{
-  "name": "chatbox",
-  "description": "chatbox (Chat GPT)"
-}
-{
-  "name": "MacriumReflect",
-  "description": "系统映像制作"
+  "name": "PotPlayer",
+  "description": "PotPlayer 视频播放器 v1.7.1; 不再更新"
 }
