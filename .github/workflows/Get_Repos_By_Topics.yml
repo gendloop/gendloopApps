@@ -4,7 +4,7 @@ permissions:
   contents: write
   actions: write
 
-on: 
+on:
   workflow_dispatch:
     inputs:
       topics:
@@ -20,8 +20,6 @@ jobs:
     steps:
       - name: get-repos-by-topics
         uses: gendloop/get-repos-by-topics@v1.0.1
-        with: 
+        with:
           token: ${{ secrets.GENDLOOP_ACCESS_TOKEN }}
           topics: ${{ inputs.topics }}
-
-      

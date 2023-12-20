@@ -4,7 +4,7 @@ permissions:
   contents: write
   actions: write
 
-on: 
+on:
   workflow_dispatch:
     inputs:
       submodule_path:
@@ -24,9 +24,7 @@ jobs:
     steps:
       - name: delete-submodules
         uses: gendloop/delete-submodules@v1.0.0
-        with: 
+        with:
           submodule_path: ${{ inputs.submodule_path }}
           all: ${{ inputs.all }}
           token: ${{ secrets.GENDLOOP_ACCESS_TOKEN }}
-
-      

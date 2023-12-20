@@ -4,7 +4,7 @@ permissions:
   contents: write
   actions: write
 
-on: 
+on:
   workflow_dispatch:
   schedule:
     - cron: '35 16 * * 1,3,5'
@@ -15,7 +15,5 @@ jobs:
     steps:
       - name: update-submodules
         uses: gendloop/update-submodules@v1.0.0
-        with: 
+        with:
           token: ${{ secrets.GENDLOOP_ACCESS_TOKEN }}
-
-      
