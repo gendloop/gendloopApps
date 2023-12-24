@@ -4,7 +4,7 @@ permissions:
   contents: write
   actions: write
 
-on: 
+on:
   workflow_run:
     workflows:
       - Get_Repos_By_Topics
@@ -18,7 +18,5 @@ jobs:
     steps:
       - name: generate-readme-for-repos
         uses: gendloop/generate-readme-for-repos@v1.0.0
-        with: 
+        with:
           label: 'App'
-
-      
