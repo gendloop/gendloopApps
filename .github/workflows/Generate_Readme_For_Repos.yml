@@ -17,6 +17,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: generate-readme-for-repos
-        uses: gendloop/generate-readme-for-repos@v1.0.0
+        uses: gendloop/generate-readme-for-repos@v1.0.1
         with:
           label: 'App'
