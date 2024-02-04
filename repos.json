@@ -11,6 +11,10 @@
   "description": "v2rayN 网络代理工具"
 }
 {
+  "name": "Xshell",
+  "description": "Xshell 远程访问和管理工具"
+}
+{
   "name": "ListaryPro",
   "description": "ListaryPro 文件搜索"
 }
@@ -25,42 +29,6 @@
 {
   "name": "NeatDM",
   "description": "NeatDM 文件下载器"
-}
-{
-  "name": "keepass-plugins",
-  "description": "keepass-plugins KeePass Plugins (已包含所有常用功能插件)"
-}
-{
-  "name": "sublime_text",
-  "description": "sublime_text Sublime Text 3"
-}
-{
-  "name": "YuQue",
-  "description": "YuQue 语雀 (后续更新至 gendloop/YuQueInstaller )"
-}
-{
-  "name": "Typora",
-  "description": "Typora Markdown编辑器"
-}
-{
-  "name": "synergy",
-  "description": "Synergy 共用键鼠工具"
-}
-{
-  "name": "Xshell",
-  "description": "Xshell 远程访问和管理工具"
-}
-{
-  "name": "wps",
-  "description": "wps 办公软件套件-国内版"
-}
-{
-  "name": "HuoRong",
-  "description": "HuoRong 火绒 网络安全"
-}
-{
-  "name": "FreeCAD",
-  "description": "FreeCAD 3D CAD"
 }
 {
   "name": "depends",
@@ -79,12 +47,44 @@
   "description": "Quicker 指尖工具箱"
 }
 {
-  "name": "DingTalk",
-  "description": "DingTalk 钉钉安装包"
+  "name": "wps",
+  "description": "wps 办公软件套件-国内版"
+}
+{
+  "name": "HuoRong",
+  "description": "HuoRong 火绒 网络安全"
+}
+{
+  "name": "FreeCAD",
+  "description": "FreeCAD 3D CAD"
+}
+{
+  "name": "synergy",
+  "description": "Synergy 共用键鼠工具"
+}
+{
+  "name": "keepass-plugins",
+  "description": "keepass-plugins KeePass Plugins (已包含所有常用功能插件)"
+}
+{
+  "name": "sublime_text",
+  "description": "sublime_text Sublime Text 3"
+}
+{
+  "name": "Typora",
+  "description": "Typora Markdown编辑器"
+}
+{
+  "name": "YuQue",
+  "description": "YuQue 语雀 (后续更新至 gendloop/YuQueInstaller )"
 }
 {
   "name": "Listary",
   "description": "Listary 文件搜索 (后续更新至gendloop/ListaryPro)"
+}
+{
+  "name": "DingTalk",
+  "description": "DingTalk 钉钉安装包"
 }
 {
   "name": "NutStore",
@@ -93,58 +93,6 @@
 {
   "name": "FileConverter",
   "description": "FileConverter 本地文件格式转化器"
-}
-{
-  "name": "WeGame",
-  "description": "WeGame 腾讯游戏平台"
-}
-{
-  "name": "VS_2017_Community",
-  "description": "VS_2017_Community VS 2017 Community"
-}
-{
-  "name": "Sun",
-  "description": "Sun 向日葵远程控制"
-}
-{
-  "name": "Qt",
-  "description": "Qt C++界面框架"
-}
-{
-  "name": "BaiduNetDisk",
-  "description": "BaiduNetDisk 百度网盘"
-}
-{
-  "name": "ALiCloudDisk",
-  "description": "ALiCloudDisk 阿里云盘"
-}
-{
-  "name": "LeidianSimulator",
-  "description": "LeidianSimulator 雷电模拟器"
-}
-{
-  "name": "saladict-desktop",
-  "description": "saladict-desktop 桌面划词与翻译工具"
-}
-{
-  "name": "sogouwubi",
-  "description": "sogouwubi 搜狗五笔输入法 (改用 gendloop/Rime )"
-}
-{
-  "name": "Umi-OCR",
-  "description": "Umi-OCR 本地OCR工具"
-}
-{
-  "name": "BandicamPortable",
-  "description": "BandicamPortable 录屏工具"
-}
-{
-  "name": "steamcommunity",
-  "description": "steamcommunity GitHub 访问加速工具"
-}
-{
-  "name": "PotPlayer",
-  "description": "PotPlayer 视频播放器"
 }
 {
   "name": "VisualCplusplus6.0",
@@ -159,12 +107,20 @@
   "description": "glink 标注工具 "
 }
 {
+  "name": "KMS",
+  "description": "KMS Windows激活工具"
+}
+{
   "name": "IObitUnlocker",
   "description": "IObitUnlocker 文件(夹)解除占用"
 }
 {
-  "name": "KMS",
-  "description": "KMS Windows激活工具"
+  "name": "Sun",
+  "description": "Sun 向日葵远程控制"
+}
+{
+  "name": "Qt",
+  "description": "Qt C++界面框架"
 }
 {
   "name": "MacriumReflect",
@@ -183,6 +139,50 @@
   "description": "geek 程序卸载工具"
 }
 {
+  "name": "LeidianSimulator",
+  "description": "LeidianSimulator 雷电模拟器"
+}
+{
+  "name": "saladict-desktop",
+  "description": "saladict-desktop 桌面划词与翻译工具"
+}
+{
+  "name": "sogouwubi",
+  "description": "sogouwubi 搜狗五笔输入法 (改用 gendloop/Rime )"
+}
+{
+  "name": "VS_2017_Community",
+  "description": "VS_2017_Community VS 2017 Community"
+}
+{
+  "name": "WeGame",
+  "description": "WeGame 腾讯游戏平台"
+}
+{
+  "name": "BaiduNetDisk",
+  "description": "BaiduNetDisk 百度网盘"
+}
+{
+  "name": "ALiCloudDisk",
+  "description": "ALiCloudDisk 阿里云盘"
+}
+{
+  "name": "Umi-OCR",
+  "description": "Umi-OCR 本地OCR工具"
+}
+{
+  "name": "BandicamPortable",
+  "description": "BandicamPortable 录屏工具"
+}
+{
+  "name": "PotPlayer",
+  "description": "PotPlayer 视频播放器"
+}
+{
+  "name": "steamcommunity",
+  "description": "steamcommunity GitHub 访问加速工具"
+}
+{
   "name": "YuQueInstaller",
   "description": "YuQueInstaller 语雀安装包"
 }
@@ -195,12 +195,12 @@
   "description": "BeyondCompare 文件(夹)比较"
 }
 {
-  "name": "TencentMeeting",
-  "description": "TencentMeeting 腾迅会议"
-}
-{
   "name": "CCProxy",
   "description": "CCProxy 代理服务器搭建工具"
+}
+{
+  "name": "TencentMeeting",
+  "description": "TencentMeeting 腾迅会议"
 }
 {
   "name": "AnLink",
