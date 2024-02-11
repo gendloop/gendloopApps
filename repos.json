@@ -7,12 +7,16 @@
   "description": "EdgeGo 翻墙工具"
 }
 {
-  "name": "v2rayN",
-  "description": "v2rayN 网络代理工具"
+  "name": "NeatDM",
+  "description": "NeatDM 文件下载器"
 }
 {
   "name": "Xshell",
   "description": "Xshell 远程访问和管理工具"
+}
+{
+  "name": "v2rayN",
+  "description": "v2rayN 网络代理工具"
 }
 {
   "name": "ListaryPro",
@@ -27,8 +31,20 @@
   "description": "TTKMusicPlayer 音乐播放器,仿酷狗"
 }
 {
-  "name": "NeatDM",
-  "description": "NeatDM 文件下载器"
+  "name": "wps",
+  "description": "wps 办公软件套件-国内版"
+}
+{
+  "name": "FreeCAD",
+  "description": "FreeCAD 3D CAD"
+}
+{
+  "name": "HuoRong",
+  "description": "HuoRong 火绒 网络安全"
+}
+{
+  "name": "synergy",
+  "description": "Synergy 共用键鼠工具"
 }
 {
   "name": "depends",
@@ -45,22 +61,6 @@
 {
   "name": "Quicker",
   "description": "Quicker 指尖工具箱"
-}
-{
-  "name": "wps",
-  "description": "wps 办公软件套件-国内版"
-}
-{
-  "name": "HuoRong",
-  "description": "HuoRong 火绒 网络安全"
-}
-{
-  "name": "FreeCAD",
-  "description": "FreeCAD 3D CAD"
-}
-{
-  "name": "synergy",
-  "description": "Synergy 共用键鼠工具"
 }
 {
   "name": "keepass-plugins",
@@ -95,50 +95,6 @@
   "description": "FileConverter 本地文件格式转化器"
 }
 {
-  "name": "VisualCplusplus6.0",
-  "description": "VirualCplusplus6.0 Visual C++ 6.0"
-}
-{
-  "name": "WiseReminder",
-  "description": "WiseReminder 桌面事件提醒"
-}
-{
-  "name": "glink",
-  "description": "glink 标注工具 "
-}
-{
-  "name": "KMS",
-  "description": "KMS Windows激活工具"
-}
-{
-  "name": "IObitUnlocker",
-  "description": "IObitUnlocker 文件(夹)解除占用"
-}
-{
-  "name": "Sun",
-  "description": "Sun 向日葵远程控制"
-}
-{
-  "name": "Qt",
-  "description": "Qt C++界面框架"
-}
-{
-  "name": "MacriumReflect",
-  "description": "MacriumReflect 系统映像制作"
-}
-{
-  "name": "keepass-languages",
-  "description": "keepass-languages KeePass Languages (已包含简体,繁体中文, 日语)"
-}
-{
-  "name": "chatbox",
-  "description": "chatbox Chat GPT 工具"
-}
-{
-  "name": "geek",
-  "description": "geek 程序卸载工具"
-}
-{
   "name": "LeidianSimulator",
   "description": "LeidianSimulator 雷电模拟器"
 }
@@ -159,6 +115,22 @@
   "description": "WeGame 腾讯游戏平台"
 }
 {
+  "name": "MacriumReflect",
+  "description": "MacriumReflect 系统映像制作"
+}
+{
+  "name": "keepass-languages",
+  "description": "keepass-languages KeePass Languages (已包含简体,繁体中文, 日语)"
+}
+{
+  "name": "chatbox",
+  "description": "chatbox Chat GPT 工具"
+}
+{
+  "name": "geek",
+  "description": "geek 程序卸载工具"
+}
+{
   "name": "BaiduNetDisk",
   "description": "BaiduNetDisk 百度网盘"
 }
@@ -167,20 +139,32 @@
   "description": "ALiCloudDisk 阿里云盘"
 }
 {
-  "name": "Umi-OCR",
-  "description": "Umi-OCR 本地OCR工具"
+  "name": "Sun",
+  "description": "Sun 向日葵远程控制"
 }
 {
-  "name": "BandicamPortable",
-  "description": "BandicamPortable 录屏工具"
+  "name": "Qt",
+  "description": "Qt C++界面框架"
 }
 {
-  "name": "PotPlayer",
-  "description": "PotPlayer 视频播放器"
+  "name": "VisualCplusplus6.0",
+  "description": "VirualCplusplus6.0 Visual C++ 6.0"
 }
 {
-  "name": "steamcommunity",
-  "description": "steamcommunity GitHub 访问加速工具"
+  "name": "WiseReminder",
+  "description": "WiseReminder 桌面事件提醒"
+}
+{
+  "name": "glink",
+  "description": "glink 标注工具 "
+}
+{
+  "name": "KMS",
+  "description": "KMS Windows激活工具"
+}
+{
+  "name": "IObitUnlocker",
+  "description": "IObitUnlocker 文件(夹)解除占用"
 }
 {
   "name": "YuQueInstaller",
@@ -201,6 +185,22 @@
 {
   "name": "TencentMeeting",
   "description": "TencentMeeting 腾迅会议"
+}
+{
+  "name": "Umi-OCR",
+  "description": "Umi-OCR 本地OCR工具"
+}
+{
+  "name": "BandicamPortable",
+  "description": "BandicamPortable 录屏工具"
+}
+{
+  "name": "PotPlayer",
+  "description": "PotPlayer 视频播放器"
+}
+{
+  "name": "steamcommunity",
+  "description": "steamcommunity GitHub 访问加速工具"
 }
 {
   "name": "AnLink",
