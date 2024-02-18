@@ -1,4 +1,8 @@
 {
+  "name": "NeatDM",
+  "description": "NeatDM 文件下载器"
+}
+{
   "name": "fastgithub",
   "description": "fastgithub GitHub访问加速"
 }
@@ -7,16 +11,8 @@
   "description": "EdgeGo 翻墙工具"
 }
 {
-  "name": "NeatDM",
-  "description": "NeatDM 文件下载器"
-}
-{
   "name": "Xshell",
   "description": "Xshell 远程访问和管理工具"
-}
-{
-  "name": "v2rayN",
-  "description": "v2rayN 网络代理工具"
 }
 {
   "name": "ListaryPro",
@@ -29,6 +25,10 @@
 {
   "name": "TTKMusicPlayer",
   "description": "TTKMusicPlayer 音乐播放器,仿酷狗"
+}
+{
+  "name": "v2rayN",
+  "description": "v2rayN 网络代理工具"
 }
 {
   "name": "wps",
@@ -47,6 +47,18 @@
   "description": "Synergy 共用键鼠工具"
 }
 {
+  "name": "DingTalk",
+  "description": "DingTalk 钉钉安装包"
+}
+{
+  "name": "Listary",
+  "description": "Listary 文件搜索 (后续更新至gendloop/ListaryPro)"
+}
+{
+  "name": "DesktopCalendar",
+  "description": "DesktopCalendar 桌面日历"
+}
+{
   "name": "depends",
   "description": "depends Dependency Walker Dll依赖分析工具"
 }
@@ -55,20 +67,24 @@
   "description": "Rime 小狼毫输入法"
 }
 {
-  "name": "DesktopCalendar",
-  "description": "DesktopCalendar 桌面日历"
-}
-{
   "name": "Quicker",
   "description": "Quicker 指尖工具箱"
 }
 {
-  "name": "keepass-plugins",
-  "description": "keepass-plugins KeePass Plugins (已包含所有常用功能插件)"
+  "name": "NutStore",
+  "description": "NutStore 坚果云"
+}
+{
+  "name": "FileConverter",
+  "description": "FileConverter 本地文件格式转化器"
 }
 {
   "name": "sublime_text",
   "description": "sublime_text Sublime Text 3"
+}
+{
+  "name": "keepass-plugins",
+  "description": "keepass-plugins KeePass Plugins (已包含所有常用功能插件)"
 }
 {
   "name": "Typora",
@@ -79,20 +95,12 @@
   "description": "YuQue 语雀 (后续更新至 gendloop/YuQueInstaller )"
 }
 {
-  "name": "Listary",
-  "description": "Listary 文件搜索 (后续更新至gendloop/ListaryPro)"
+  "name": "VS_2017_Community",
+  "description": "VS_2017_Community VS 2017 Community"
 }
 {
-  "name": "DingTalk",
-  "description": "DingTalk 钉钉安装包"
-}
-{
-  "name": "NutStore",
-  "description": "NutStore 坚果云"
-}
-{
-  "name": "FileConverter",
-  "description": "FileConverter 本地文件格式转化器"
+  "name": "WeGame",
+  "description": "WeGame 腾讯游戏平台"
 }
 {
   "name": "LeidianSimulator",
@@ -107,20 +115,12 @@
   "description": "sogouwubi 搜狗五笔输入法 (改用 gendloop/Rime )"
 }
 {
-  "name": "VS_2017_Community",
-  "description": "VS_2017_Community VS 2017 Community"
-}
-{
-  "name": "WeGame",
-  "description": "WeGame 腾讯游戏平台"
+  "name": "keepass-languages",
+  "description": "keepass-languages KeePass Languages (已包含简体,繁体中文, 日语)"
 }
 {
   "name": "MacriumReflect",
   "description": "MacriumReflect 系统映像制作"
-}
-{
-  "name": "keepass-languages",
-  "description": "keepass-languages KeePass Languages (已包含简体,繁体中文, 日语)"
 }
 {
   "name": "chatbox",
@@ -131,20 +131,12 @@
   "description": "geek 程序卸载工具"
 }
 {
-  "name": "BaiduNetDisk",
-  "description": "BaiduNetDisk 百度网盘"
-}
-{
-  "name": "ALiCloudDisk",
-  "description": "ALiCloudDisk 阿里云盘"
+  "name": "Qt",
+  "description": "Qt C++界面框架"
 }
 {
   "name": "Sun",
   "description": "Sun 向日葵远程控制"
-}
-{
-  "name": "Qt",
-  "description": "Qt C++界面框架"
 }
 {
   "name": "VisualCplusplus6.0",
@@ -167,12 +159,28 @@
   "description": "IObitUnlocker 文件(夹)解除占用"
 }
 {
-  "name": "YuQueInstaller",
-  "description": "YuQueInstaller 语雀安装包"
+  "name": "BaiduNetDisk",
+  "description": "BaiduNetDisk 百度网盘"
 }
 {
-  "name": "HtmlHelpWorkshop",
-  "description": "HtmlHelpWorkshop chm文件编辑器"
+  "name": "ALiCloudDisk",
+  "description": "ALiCloudDisk 阿里云盘"
+}
+{
+  "name": "Umi-OCR",
+  "description": "Umi-OCR 本地OCR工具"
+}
+{
+  "name": "BandicamPortable",
+  "description": "BandicamPortable 录屏工具"
+}
+{
+  "name": "steamcommunity",
+  "description": "steamcommunity GitHub 访问加速工具"
+}
+{
+  "name": "PotPlayer",
+  "description": "PotPlayer 视频播放器"
 }
 {
   "name": "BeyondCompare",
@@ -187,20 +195,12 @@
   "description": "TencentMeeting 腾迅会议"
 }
 {
-  "name": "Umi-OCR",
-  "description": "Umi-OCR 本地OCR工具"
+  "name": "HtmlHelpWorkshop",
+  "description": "HtmlHelpWorkshop chm文件编辑器"
 }
 {
-  "name": "BandicamPortable",
-  "description": "BandicamPortable 录屏工具"
-}
-{
-  "name": "PotPlayer",
-  "description": "PotPlayer 视频播放器"
-}
-{
-  "name": "steamcommunity",
-  "description": "steamcommunity GitHub 访问加速工具"
+  "name": "YuQueInstaller",
+  "description": "YuQueInstaller 语雀安装包"
 }
 {
   "name": "AnLink",
