@@ -59,14 +59,6 @@
   "description": "FileConverter 本地文件格式转化器"
 }
 {
-  "name": "Listary",
-  "description": "Listary 文件搜索 (后续更新至gendloop/ListaryPro)"
-}
-{
-  "name": "DingTalk",
-  "description": "DingTalk 钉钉安装包"
-}
-{
   "name": "FreeCAD",
   "description": "FreeCAD 3D CAD"
 }
@@ -81,6 +73,14 @@
 {
   "name": "wps",
   "description": "wps 办公软件套件-国内版"
+}
+{
+  "name": "Listary",
+  "description": "Listary 文件搜索 (后续更新至gendloop/ListaryPro)"
+}
+{
+  "name": "DingTalk",
+  "description": "DingTalk 钉钉安装包"
 }
 {
   "name": "Typora",
@@ -101,6 +101,18 @@
 {
   "name": "sublime_text",
   "description": "sublime_text Sublime Text 3"
+}
+{
+  "name": "VS_2017_Community",
+  "description": "VS_2017_Community VS 2017 Community"
+}
+{
+  "name": "Sun",
+  "description": "Sun 向日葵远程控制"
+}
+{
+  "name": "Qt",
+  "description": "Qt C++界面框架"
 }
 {
   "name": "chatbox",
@@ -139,54 +151,6 @@
   "description": "KMS Windows激活工具"
 }
 {
-  "name": "Umi-OCR",
-  "description": "Umi-OCR 本地OCR工具"
-}
-{
-  "name": "BandicamPortable",
-  "description": "BandicamPortable 录屏工具"
-}
-{
-  "name": "PotPlayer",
-  "description": "PotPlayer 视频播放器"
-}
-{
-  "name": "steamcommunity",
-  "description": "steamcommunity GitHub 访问加速工具"
-}
-{
-  "name": "VS_2017_Community",
-  "description": "VS_2017_Community VS 2017 Community"
-}
-{
-  "name": "Sun",
-  "description": "Sun 向日葵远程控制"
-}
-{
-  "name": "Qt",
-  "description": "Qt C++界面框架"
-}
-{
-  "name": "YuQueInstaller",
-  "description": "YuQueInstaller 语雀安装包"
-}
-{
-  "name": "TencentMeeting",
-  "description": "TencentMeeting 腾迅会议"
-}
-{
-  "name": "HtmlHelpWorkshop",
-  "description": "HtmlHelpWorkshop chm文件编辑器"
-}
-{
-  "name": "CCProxy",
-  "description": "CCProxy 代理服务器搭建工具"
-}
-{
-  "name": "BeyondCompare",
-  "description": "BeyondCompare 文件(夹)比较"
-}
-{
   "name": "LeidianSimulator",
   "description": "LeidianSimulator 雷电模拟器"
 }
@@ -209,6 +173,42 @@
 {
   "name": "BaiduNetDisk",
   "description": "BaiduNetDisk 百度网盘"
+}
+{
+  "name": "Umi-OCR",
+  "description": "Umi-OCR 本地OCR工具"
+}
+{
+  "name": "BandicamPortable",
+  "description": "BandicamPortable 录屏工具"
+}
+{
+  "name": "PotPlayer",
+  "description": "PotPlayer 视频播放器"
+}
+{
+  "name": "steamcommunity",
+  "description": "steamcommunity GitHub 访问加速工具"
+}
+{
+  "name": "YuQueInstaller",
+  "description": "YuQueInstaller 语雀安装包"
+}
+{
+  "name": "TencentMeeting",
+  "description": "TencentMeeting 腾迅会议"
+}
+{
+  "name": "HtmlHelpWorkshop",
+  "description": "HtmlHelpWorkshop chm文件编辑器"
+}
+{
+  "name": "CCProxy",
+  "description": "CCProxy 代理服务器搭建工具"
+}
+{
+  "name": "BeyondCompare",
+  "description": "BeyondCompare 文件(夹)比较"
 }
 {
   "name": "AnLink",
