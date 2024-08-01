@@ -39,28 +39,16 @@
   "description": "TTKMusicPlayer 音乐播放器,仿酷狗"
 }
 {
+  "name": "Rime",
+  "description": "Rime 小狼毫输入法"
+}
+{
   "name": "Quicker",
   "description": "Quicker 指尖工具箱"
 }
 {
   "name": "depends",
   "description": "depends Dependency Walker Dll依赖分析工具"
-}
-{
-  "name": "Rime",
-  "description": "Rime 小狼毫输入法"
-}
-{
-  "name": "NutStore",
-  "description": "NutStore 坚果云"
-}
-{
-  "name": "FileConverter",
-  "description": "FileConverter 本地文件格式转化器"
-}
-{
-  "name": "synergy",
-  "description": "Synergy 共享键鼠工具"
 }
 {
   "name": "FreeCAD",
@@ -71,44 +59,40 @@
   "description": "wps 办公软件套件-国内版"
 }
 {
+  "name": "synergy",
+  "description": "Synergy 共享键鼠工具"
+}
+{
   "name": "HuoRong",
   "description": "HuoRong 火绒 网络安全"
 }
 {
-  "name": "KMS",
-  "description": "KMS Windows激活工具"
+  "name": "FileConverter",
+  "description": "FileConverter 本地文件格式转化器"
 }
 {
-  "name": "glink",
-  "description": "glink 标注工具 "
+  "name": "NutStore",
+  "description": "NutStore 坚果云"
 }
 {
-  "name": "IObitUnlocker",
-  "description": "IObitUnlocker 文件(夹)解除占用"
+  "name": "QuickLook",
+  "description": "QuickLook 已包含所有常用插件"
 }
 {
-  "name": "VisualCplusplus6.0",
-  "description": "VirualCplusplus6.0 Visual C++ 6.0"
+  "name": "Typora",
+  "description": "Typora Markdown编辑器"
 }
 {
-  "name": "WiseReminder",
-  "description": "WiseReminder 桌面事件提醒"
+  "name": "keepass-plugins",
+  "description": "keepass-plugins KeePass Plugins (已包含所有常用功能插件)"
 }
 {
-  "name": "Listary",
-  "description": "Listary 文件搜索 (后续更新至gendloop/ListaryPro)"
+  "name": "sublime_text",
+  "description": "sublime_text Sublime Text 3"
 }
 {
-  "name": "DingTalk",
-  "description": "DingTalk 钉钉安装包"
-}
-{
-  "name": "WeGame",
-  "description": "WeGame 腾讯游戏平台"
-}
-{
-  "name": "VS_2017_Community",
-  "description": "VS_2017_Community VS 2017 Community"
+  "name": "YuQue",
+  "description": "YuQue 语雀 (后续更新至 gendloop/YuQueInstaller )"
 }
 {
   "name": "ALiCloudDisk",
@@ -119,32 +103,28 @@
   "description": "BaiduNetDisk 百度网盘"
 }
 {
-  "name": "QuickLook",
-  "description": "QuickLook 已包含所有常用插件"
-}
-{
-  "name": "keepass-plugins",
-  "description": "keepass-plugins KeePass Plugins (已包含所有常用功能插件)"
-}
-{
-  "name": "Typora",
-  "description": "Typora Markdown编辑器"
-}
-{
-  "name": "YuQue",
-  "description": "YuQue 语雀 (后续更新至 gendloop/YuQueInstaller )"
-}
-{
-  "name": "sublime_text",
-  "description": "sublime_text Sublime Text 3"
+  "name": "Qt",
+  "description": "Qt C++界面框架"
 }
 {
   "name": "Sun",
   "description": "Sun 向日葵远程控制"
 }
 {
-  "name": "Qt",
-  "description": "Qt C++界面框架"
+  "name": "DingTalk",
+  "description": "DingTalk 钉钉安装包"
+}
+{
+  "name": "Listary",
+  "description": "Listary 文件搜索 (后续更新至gendloop/ListaryPro)"
+}
+{
+  "name": "WeGame",
+  "description": "WeGame 腾讯游戏平台"
+}
+{
+  "name": "VS_2017_Community",
+  "description": "VS_2017_Community VS 2017 Community"
 }
 {
   "name": "saladict-desktop",
@@ -159,20 +139,28 @@
   "description": "LeidianSimulator 雷电模拟器"
 }
 {
-  "name": "chatbox",
-  "description": "chatbox Chat GPT 工具"
+  "name": "VisualCplusplus6.0",
+  "description": "VirualCplusplus6.0 Visual C++ 6.0"
 }
 {
-  "name": "MacriumReflect",
-  "description": "MacriumReflect 系统映像制作"
+  "name": "IObitUnlocker",
+  "description": "IObitUnlocker 文件(夹)解除占用"
 }
 {
-  "name": "keepass-languages",
-  "description": "keepass-languages KeePass Languages (已包含简体,繁体中文, 日语)"
+  "name": "KMS",
+  "description": "KMS Windows激活工具"
 }
 {
-  "name": "geek",
-  "description": "geek 程序卸载工具"
+  "name": "glink",
+  "description": "glink 标注工具 "
+}
+{
+  "name": "WiseReminder",
+  "description": "WiseReminder 桌面事件提醒"
+}
+{
+  "name": "CAJViewer",
+  "description": ".caj 格式文件查看器"
 }
 {
   "name": "PotPlayer",
@@ -183,12 +171,36 @@
   "description": "BandicamPortable 录屏工具"
 }
 {
+  "name": "Umi-OCR",
+  "description": "Umi-OCR 本地OCR工具"
+}
+{
   "name": "steamcommunity",
   "description": "steamcommunity GitHub 访问加速工具"
 }
 {
-  "name": "Umi-OCR",
-  "description": "Umi-OCR 本地OCR工具"
+  "name": "geek",
+  "description": "geek 程序卸载工具"
+}
+{
+  "name": "MacriumReflect",
+  "description": "MacriumReflect 系统映像制作"
+}
+{
+  "name": "chatbox",
+  "description": "chatbox Chat GPT 工具"
+}
+{
+  "name": "keepass-languages",
+  "description": "keepass-languages KeePass Languages (已包含简体,繁体中文, 日语)"
+}
+{
+  "name": "HtmlHelpWorkshop",
+  "description": "HtmlHelpWorkshop chm文件编辑器"
+}
+{
+  "name": "TencentMeeting",
+  "description": "TencentMeeting 腾迅会议"
 }
 {
   "name": "CCProxy",
@@ -201,14 +213,6 @@
 {
   "name": "YuQueInstaller",
   "description": "YuQueInstaller 语雀安装包"
-}
-{
-  "name": "HtmlHelpWorkshop",
-  "description": "HtmlHelpWorkshop chm文件编辑器"
-}
-{
-  "name": "TencentMeeting",
-  "description": "TencentMeeting 腾迅会议"
 }
 {
   "name": "AnLink",
