@@ -23,24 +23,24 @@
   "description": "ClashForWindows 网络代理"
 }
 {
-  "name": "DesktopCalendar",
-  "description": "DesktopCalendar 桌面日历"
-}
-{
   "name": "v2rayN",
   "description": "v2rayN 网络代理工具"
+}
+{
+  "name": "DesktopCalendar",
+  "description": "DesktopCalendar 桌面日历"
 }
 {
   "name": "Xshell",
   "description": "Xshell 远程访问和管理工具"
 }
 {
-  "name": "BeyondCompare",
-  "description": "BeyondCompare 文件(夹)比较"
-}
-{
   "name": "IObitUnlocker",
   "description": "IObitUnlocker 文件(夹)解除占用"
+}
+{
+  "name": "BeyondCompare",
+  "description": "BeyondCompare 文件(夹)比较"
 }
 {
   "name": "TTKMusicPlayer",
@@ -49,6 +49,10 @@
 {
   "name": "geek",
   "description": "geek 程序卸载工具"
+}
+{
+  "name": "RaiDrive",
+  "description": "RaiDrive 远程挂载工具"
 }
 {
   "name": "Rime",
@@ -63,20 +67,88 @@
   "description": "depends Dependency Walker Dll依赖分析工具"
 }
 {
-  "name": "RaiDrive",
-  "description": "RaiDrive 远程挂载工具"
+  "name": "FreeCAD",
+  "description": "FreeCAD 3D CAD"
+}
+{
+  "name": "synergy",
+  "description": "Synergy 共享键鼠工具"
+}
+{
+  "name": "HuoRong",
+  "description": "HuoRong 火绒 网络安全"
+}
+{
+  "name": "wps",
+  "description": "wps 办公软件套件-国内版"
+}
+{
+  "name": "Nucleo",
+  "description": "Nucleo, 创建, 管理和导出图标的工具"
 }
 {
   "name": "PDFPatcher",
   "description": "PDFPatcher PDF 补丁丁"
 }
 {
+  "name": "ALiCloudDisk",
+  "description": "ALiCloudDisk 阿里云盘"
+}
+{
   "name": "BaiduNetDisk",
   "description": "BaiduNetDisk 百度网盘"
 }
 {
-  "name": "ALiCloudDisk",
-  "description": "ALiCloudDisk 阿里云盘"
+  "name": "sogouwubi",
+  "description": "sogouwubi 搜狗五笔输入法 (改用 gendloop/Rime )"
+}
+{
+  "name": "LeidianSimulator",
+  "description": "LeidianSimulator 雷电模拟器"
+}
+{
+  "name": "saladict-desktop",
+  "description": "saladict-desktop 桌面划词与翻译工具"
+}
+{
+  "name": "FileConverter",
+  "description": "FileConverter 本地文件格式转化器"
+}
+{
+  "name": "NutStore",
+  "description": "NutStore 坚果云"
+}
+{
+  "name": "glink",
+  "description": "glink 标注工具 "
+}
+{
+  "name": "VisualCplusplus6.0",
+  "description": "VirualCplusplus6.0 Visual C++ 6.0"
+}
+{
+  "name": "KMS",
+  "description": "KMS Windows激活工具"
+}
+{
+  "name": "WiseReminder",
+  "description": "WiseReminder 桌面事件提醒"
+}
+{
+  "name": "Umi-OCR",
+  "description": "Umi-OCR 本地OCR工具"
+}
+{
+  "name": "BandicamPortable",
+  "description": "BandicamPortable 录屏工具"
+}
+{
+  "name": "steamcommunity",
+  "description": "steamcommunity GitHub 访问加速工具"
+}
+{
+  "name": "PotPlayer",
+  "description": "PotPlayer 视频播放器"
 }
 {
   "name": "MusicPlayer2",
@@ -91,20 +163,8 @@
   "description": "Listary 文件搜索 (后续更新至gendloop/ListaryPro)"
 }
 {
-  "name": "NutStore",
-  "description": "NutStore 坚果云"
-}
-{
-  "name": "FileConverter",
-  "description": "FileConverter 本地文件格式转化器"
-}
-{
-  "name": "Typora",
-  "description": "Typora Markdown编辑器"
-}
-{
-  "name": "sublime_text",
-  "description": "sublime_text Sublime Text 3"
+  "name": "CAJViewer",
+  "description": "CAJViewer  .caj 格式文件查看器"
 }
 {
   "name": "keepass-plugins",
@@ -115,112 +175,56 @@
   "description": "YuQue 语雀 (后续更新至 gendloop/YuQueInstaller )"
 }
 {
+  "name": "sublime_text",
+  "description": "sublime_text Sublime Text 3"
+}
+{
   "name": "QuickLook",
   "description": "QuickLook 已包含所有常用插件"
 }
 {
-  "name": "sogouwubi",
-  "description": "sogouwubi 搜狗五笔输入法 (改用 gendloop/Rime )"
-}
-{
-  "name": "saladict-desktop",
-  "description": "saladict-desktop 桌面划词与翻译工具"
-}
-{
-  "name": "LeidianSimulator",
-  "description": "LeidianSimulator 雷电模拟器"
-}
-{
-  "name": "HuoRong",
-  "description": "HuoRong 火绒 网络安全"
-}
-{
-  "name": "wps",
-  "description": "wps 办公软件套件-国内版"
-}
-{
-  "name": "FreeCAD",
-  "description": "FreeCAD 3D CAD"
-}
-{
-  "name": "synergy",
-  "description": "Synergy 共享键鼠工具"
-}
-{
-  "name": "VS_2017_Community",
-  "description": "VS_2017_Community VS 2017 Community"
-}
-{
-  "name": "freepiano",
-  "description": "freepiano 使用电脑键盘演奏音乐的开源软件"
-}
-{
-  "name": "WeGame",
-  "description": "WeGame 腾讯游戏平台"
-}
-{
-  "name": "Sun",
-  "description": "Sun 向日葵远程控制"
+  "name": "Typora",
+  "description": "Typora Markdown编辑器"
 }
 {
   "name": "Qt",
   "description": "Qt C++界面框架"
 }
 {
-  "name": "PotPlayer",
-  "description": "PotPlayer 视频播放器"
-}
-{
-  "name": "steamcommunity",
-  "description": "steamcommunity GitHub 访问加速工具"
-}
-{
-  "name": "Umi-OCR",
-  "description": "Umi-OCR 本地OCR工具"
-}
-{
-  "name": "BandicamPortable",
-  "description": "BandicamPortable 录屏工具"
-}
-{
-  "name": "nodejs",
-  "description": "Node.js"
-}
-{
-  "name": "CCProxy",
-  "description": "CCProxy 代理服务器搭建工具"
-}
-{
-  "name": "HtmlHelpWorkshop",
-  "description": "HtmlHelpWorkshop chm文件编辑器"
-}
-{
-  "name": "YuQueInstaller",
-  "description": "YuQueInstaller 语雀安装包"
+  "name": "Sun",
+  "description": "Sun 向日葵远程控制"
 }
 {
   "name": "TencentMeeting",
   "description": "TencentMeeting 腾迅会议"
 }
 {
-  "name": "CAJViewer",
-  "description": "CAJViewer  .caj 格式文件查看器"
+  "name": "HtmlHelpWorkshop",
+  "description": "HtmlHelpWorkshop chm文件编辑器"
 }
 {
-  "name": "VisualCplusplus6.0",
-  "description": "VirualCplusplus6.0 Visual C++ 6.0"
+  "name": "CCProxy",
+  "description": "CCProxy 代理服务器搭建工具"
 }
 {
-  "name": "WiseReminder",
-  "description": "WiseReminder 桌面事件提醒"
+  "name": "YuQueInstaller",
+  "description": "YuQueInstaller 语雀安装包"
 }
 {
-  "name": "glink",
-  "description": "glink 标注工具 "
+  "name": "nodejs",
+  "description": "Node.js"
 }
 {
-  "name": "KMS",
-  "description": "KMS Windows激活工具"
+  "name": "freepiano",
+  "description": "freepiano 使用电脑键盘演奏音乐的开源软件"
+}
+{
+  "name": "VS_2017_Community",
+  "description": "VS_2017_Community VS 2017 Community"
+}
+{
+  "name": "WeGame",
+  "description": "WeGame 腾讯游戏平台"
 }
 {
   "name": "AnLink",
