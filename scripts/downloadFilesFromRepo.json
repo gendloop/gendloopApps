@@ -38,28 +38,6 @@
         },
         {
             "files": [
-                "Update_Submodules.yml"
-            ],
-            "local_dir": "../.github/workflows",
-            "user": "gendloop",
-            "repo": "update-submodules",
-            "branch": "main",
-            "is_private": false,
-            "token": ""
-        },
-        {
-            "files": [
-                "Add_Submodule.yml"
-            ],
-            "local_dir": "../.github/workflows",
-            "user": "gendloop",
-            "repo": "add-submodule",
-            "branch": "main",
-            "is_private": false,
-            "token": ""
-        },
-        {
-            "files": [
                 ".github/workflows/Copy_Secrets.yml"
             ],
             "local_dir": "../.github/workflows",
@@ -87,17 +65,6 @@
             "local_dir": "../.github/workflows",
             "user": "gendloop",
             "repo": "get-repos-by-topics",
-            "branch": "main",
-            "is_private": false,
-            "token": ""
-        },
-        {
-            "files": [
-                "Delete_Submodules.yml"
-            ],
-            "local_dir": "../.github/workflows",
-            "user": "gendloop",
-            "repo": "delete-submodules",
             "branch": "main",
             "is_private": false,
             "token": ""
