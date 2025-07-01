@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: get-repos-by-topics
-        uses: gendloop/get-repos-by-topics@v1.0.1
+        uses: gendloop/get-repos-by-topics@main
         with:
           token: ${{ secrets.GENDLOOP_ACCESS_TOKEN }}
           topics: ${{ inputs.topics }}
