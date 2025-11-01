@@ -15,6 +15,10 @@
   "description": "EdgeGo 翻墙工具"
 }
 {
+  "name": "NeatDM",
+  "description": "NeatDM 文件下载器"
+}
+{
   "name": "geek",
   "description": "geek 程序卸载工具"
 }
@@ -23,16 +27,20 @@
   "description": "IObitUnlocker 文件(夹)解除占用"
 }
 {
-  "name": "NeatDM",
-  "description": "NeatDM 文件下载器"
-}
-{
   "name": "CCProxy",
   "description": "CCProxy 代理服务器搭建工具"
 }
 {
+  "name": "PDFPatcher",
+  "description": "PDFPatcher PDF 补丁丁"
+}
+{
   "name": "ClashForWindows",
   "description": "ClashForWindows 网络代理"
+}
+{
+  "name": "BaiduNetDisk",
+  "description": "BaiduNetDisk 百度网盘"
 }
 {
   "name": "DesktopCalendar",
@@ -47,10 +55,6 @@
   "description": "TTKMusicPlayer 音乐播放器,仿酷狗"
 }
 {
-  "name": "BaiduNetDisk",
-  "description": "BaiduNetDisk 百度网盘"
-}
-{
   "name": "BandicamPortable",
   "description": "BandicamPortable 录屏工具"
 }
@@ -63,12 +67,16 @@
   "description": "Xshell 远程访问和管理工具"
 }
 {
-  "name": "BeyondCompare",
-  "description": "BeyondCompare 文件(夹)比较"
+  "name": "TypeEasy",
+  "description": "金山打字通 2016"
 }
 {
   "name": "saladict-desktop",
   "description": "saladict-desktop 桌面划词与翻译工具"
+}
+{
+  "name": "BeyondCompare",
+  "description": "BeyondCompare 文件(夹)比较"
 }
 {
   "name": "HtmlHelpWorkshop",
@@ -99,44 +107,12 @@
   "description": "sublime_text Sublime Text 3"
 }
 {
-  "name": "Quicker",
-  "description": "Quicker 指尖工具箱"
-}
-{
-  "name": "RaiDrive",
-  "description": "RaiDrive 远程挂载工具"
-}
-{
-  "name": "gitbook",
-  "description": "gitbook 避免使用 gitbook-cli 自动下载时卡在 Installing"
-}
-{
   "name": "ALiCloudDisk",
   "description": "ALiCloudDisk 阿里云盘"
 }
 {
-  "name": "PDFPatcher",
-  "description": "PDFPatcher PDF 补丁丁"
-}
-{
-  "name": "Umi-OCR",
-  "description": "Umi-OCR 本地OCR工具"
-}
-{
-  "name": "PotPlayer",
-  "description": "PotPlayer 视频播放器"
-}
-{
-  "name": "Rime",
-  "description": "Rime 小狼毫输入法"
-}
-{
-  "name": "depends",
-  "description": "depends Dependency Walker Dll依赖分析工具"
-}
-{
-  "name": "WeGame",
-  "description": "WeGame 腾讯游戏平台"
+  "name": "DockerDesktop",
+  "description": "Docker 一体化管理工具"
 }
 {
   "name": "wps",
@@ -149,6 +125,18 @@
 {
   "name": "synergy",
   "description": "Synergy 共享键鼠工具"
+}
+{
+  "name": "WeGame",
+  "description": "WeGame 腾讯游戏平台"
+}
+{
+  "name": "Quicker",
+  "description": "Quicker 指尖工具箱"
+}
+{
+  "name": "RaiDrive",
+  "description": "RaiDrive 远程挂载工具"
 }
 {
   "name": "keepass-plugins",
@@ -179,6 +167,34 @@
   "description": "Stirling-PDF PDF 转换工具箱"
 }
 {
+  "name": "WiseReminder",
+  "description": "WiseReminder 桌面事件提醒"
+}
+{
+  "name": "gitbook",
+  "description": "gitbook 避免使用 gitbook-cli 自动下载时卡在 Installing"
+}
+{
+  "name": "Rime",
+  "description": "Rime 小狼毫输入法"
+}
+{
+  "name": "depends",
+  "description": "depends Dependency Walker Dll依赖分析工具"
+}
+{
+  "name": "Umi-OCR",
+  "description": "Umi-OCR 本地OCR工具"
+}
+{
+  "name": "PotPlayer",
+  "description": "PotPlayer 视频播放器"
+}
+{
+  "name": "Sun",
+  "description": "Sun 向日葵远程控制"
+}
+{
   "name": "VisualCplusplus6.0",
   "description": "VirualCplusplus6.0 Visual C++ 6.0"
 }
@@ -191,8 +207,8 @@
   "description": "gInk 标注工具 "
 }
 {
-  "name": "WiseReminder",
-  "description": "WiseReminder 桌面事件提醒"
+  "name": "Qt",
+  "description": "Qt C++界面框架"
 }
 {
   "name": "FreeCAD",
@@ -201,26 +217,6 @@
 {
   "name": "Nucleo",
   "description": "Nucleo, 创建, 管理和导出图标的工具"
-}
-{
-  "name": "TypeEasy",
-  "description": "金山打字通 2016"
-}
-{
-  "name": "Sun",
-  "description": "Sun 向日葵远程控制"
-}
-{
-  "name": "YuQueInstaller",
-  "description": "YuQueInstaller 语雀安装包"
-}
-{
-  "name": "nodejs",
-  "description": "Node.js"
-}
-{
-  "name": "Qt",
-  "description": "Qt C++界面框架"
 }
 {
   "name": "Listary",
@@ -237,6 +233,14 @@
 {
   "name": "CAJViewer",
   "description": "CAJViewer  .caj 格式文件查看器"
+}
+{
+  "name": "YuQueInstaller",
+  "description": "YuQueInstaller 语雀安装包"
+}
+{
+  "name": "nodejs",
+  "description": "Node.js"
 }
 {
   "name": "keepass-languages",
