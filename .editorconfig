@@ -15,6 +15,9 @@ trim_trailing_whitespace = true
 [*.{yml,yaml,sh,html,htm,css}]
 indent_size = 2
 
+[*.{sh}]
+end_of_line = lf
+
 [*.{c++,cc,cpp,cppm,cxx,h,h++,hh,hpp,hxx,inl,ipp,ixx,tlh,tli}]
 cpp_generate_documentation_comments = doxygen_slash_star
 indent_size = 4
