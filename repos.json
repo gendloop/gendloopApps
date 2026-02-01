@@ -11,12 +11,12 @@
   "description": "NeatDM 文件下载器"
 }
 {
-  "name": "snipaste",
-  "description": "snipaste 截屏固定工具"
-}
-{
   "name": "EdgeGo",
   "description": "EdgeGo 翻墙工具"
+}
+{
+  "name": "snipaste",
+  "description": "snipaste 截屏固定工具"
 }
 {
   "name": "geek",
@@ -31,36 +31,32 @@
   "description": "IObitUnlocker 文件(夹)解除占用"
 }
 {
-  "name": "CCProxy",
-  "description": "CCProxy 代理服务器搭建工具"
-}
-{
   "name": "ClashForWindows",
   "description": "ClashForWindows 网络代理"
 }
 {
-  "name": "DesktopCalendar",
-  "description": "DesktopCalendar 桌面日历"
+  "name": "CCProxy",
+  "description": "CCProxy 代理服务器搭建工具"
 }
 {
   "name": "v2rayN",
   "description": "v2rayN 网络代理工具"
 }
 {
+  "name": "DesktopCalendar",
+  "description": "DesktopCalendar 桌面日历"
+}
+{
   "name": "BaiduNetDisk",
   "description": "BaiduNetDisk 百度网盘"
 }
 {
+  "name": "WiseReminder",
+  "description": "WiseReminder 桌面事件提醒"
+}
+{
   "name": "TTKMusicPlayer",
   "description": "TTKMusicPlayer 音乐播放器,仿酷狗"
-}
-{
-  "name": "Xshell",
-  "description": "Xshell 远程访问和管理工具"
-}
-{
-  "name": "TypeEasy",
-  "description": "金山打字通 2016"
 }
 {
   "name": "BandicamPortable",
@@ -69,6 +65,14 @@
 {
   "name": "steamcommunity",
   "description": "steamcommunity GitHub 访问加速工具"
+}
+{
+  "name": "Xshell",
+  "description": "Xshell 远程访问和管理工具"
+}
+{
+  "name": "TypeEasy",
+  "description": "金山打字通 2016"
 }
 {
   "name": "saladict-desktop",
@@ -87,14 +91,6 @@
   "description": "AnLink 手机投屏与控制"
 }
 {
-  "name": "NutStore",
-  "description": "NutStore 坚果云"
-}
-{
-  "name": "FileConverter",
-  "description": "FileConverter 本地文件格式转化器"
-}
-{
   "name": "DingTalk",
   "description": "DingTalk 钉钉安装包"
 }
@@ -103,12 +99,40 @@
   "description": "本地音乐播放器(改为个人喜好配置)"
 }
 {
+  "name": "NutStore",
+  "description": "NutStore 坚果云"
+}
+{
+  "name": "FileConverter",
+  "description": "FileConverter 本地文件格式转化器"
+}
+{
   "name": "Quicker",
   "description": "Quicker 指尖工具箱"
 }
 {
   "name": "RaiDrive",
   "description": "RaiDrive 远程挂载工具"
+}
+{
+  "name": "Rime",
+  "description": "Rime 小狼毫输入法"
+}
+{
+  "name": "depends",
+  "description": "depends Dependency Walker Dll依赖分析工具"
+}
+{
+  "name": "keepass-plugins",
+  "description": "keepass-plugins KeePass Plugins (已包含所有常用功能插件)"
+}
+{
+  "name": "Typora",
+  "description": "Typora Markdown编辑器"
+}
+{
+  "name": "QuickLook",
+  "description": "QuickLook 已包含所有常用插件"
 }
 {
   "name": "sublime_text",
@@ -123,20 +147,12 @@
   "description": "Docker 一体化管理工具"
 }
 {
-  "name": "WeGame",
-  "description": "WeGame 腾讯游戏平台"
-}
-{
-  "name": "Rime",
-  "description": "Rime 小狼毫输入法"
-}
-{
-  "name": "depends",
-  "description": "depends Dependency Walker Dll依赖分析工具"
-}
-{
   "name": "gitbook",
   "description": "gitbook 避免使用 gitbook-cli 自动下载时卡在 Installing"
+}
+{
+  "name": "Sun",
+  "description": "Sun 向日葵远程控制"
 }
 {
   "name": "wps",
@@ -151,36 +167,12 @@
   "description": "Synergy 共享键鼠工具"
 }
 {
-  "name": "keepass-plugins",
-  "description": "keepass-plugins KeePass Plugins (已包含所有常用功能插件)"
+  "name": "Umi-OCR",
+  "description": "Umi-OCR 本地OCR工具"
 }
 {
-  "name": "Typora",
-  "description": "Typora Markdown编辑器"
-}
-{
-  "name": "YuQue",
-  "description": "YuQue 语雀 (后续更新至 gendloop/YuQueInstaller )"
-}
-{
-  "name": "QuickLook",
-  "description": "QuickLook 已包含所有常用插件"
-}
-{
-  "name": "WiseReminder",
-  "description": "WiseReminder 桌面事件提醒"
-}
-{
-  "name": "VS_2017_Community",
-  "description": "VS_2017_Community VS 2017 Community"
-}
-{
-  "name": "freepiano",
-  "description": "freepiano 使用电脑键盘演奏音乐的开源软件"
-}
-{
-  "name": "Stirling-PDF",
-  "description": "Stirling-PDF PDF 转换工具箱"
+  "name": "PotPlayer",
+  "description": "PotPlayer 视频播放器"
 }
 {
   "name": "VisualCplusplus6.0",
@@ -203,24 +195,32 @@
   "description": "Nucleo, 创建, 管理和导出图标的工具"
 }
 {
-  "name": "Umi-OCR",
-  "description": "Umi-OCR 本地OCR工具"
+  "name": "EVCapture",
+  "description": "EV录屏"
 }
 {
-  "name": "PotPlayer",
-  "description": "PotPlayer 视频播放器"
+  "name": "VS_2017_Community",
+  "description": "VS_2017_Community VS 2017 Community"
+}
+{
+  "name": "freepiano",
+  "description": "freepiano 使用电脑键盘演奏音乐的开源软件"
+}
+{
+  "name": "Stirling-PDF",
+  "description": "Stirling-PDF PDF 转换工具箱"
 }
 {
   "name": "Qt",
   "description": "Qt C++界面框架"
 }
 {
-  "name": "Listary",
-  "description": "Listary 文件搜索 (后续更新至gendloop/ListaryPro)"
-}
-{
   "name": "CAJViewer",
   "description": "CAJViewer  .caj 格式文件查看器"
+}
+{
+  "name": "WeGame",
+  "description": "WeGame 腾讯游戏平台"
 }
 {
   "name": "LeidianSimulator",
@@ -231,16 +231,8 @@
   "description": "sogouwubi 搜狗五笔输入法(辅用 sogou; 主用 Rime)"
 }
 {
-  "name": "YuQueInstaller",
-  "description": "YuQueInstaller 语雀安装包"
-}
-{
-  "name": "nodejs",
-  "description": "Node.js"
-}
-{
-  "name": "Sun",
-  "description": "Sun 向日葵远程控制"
+  "name": "Listary",
+  "description": "Listary 文件搜索 (后续更新至gendloop/ListaryPro)"
 }
 {
   "name": "keepass-languages",
@@ -257,6 +249,14 @@
 {
   "name": "LANDropLatest",
   "description": "跨平台局域网文件传输工具"
+}
+{
+  "name": "YuQueInstaller",
+  "description": "YuQueInstaller 语雀安装包"
+}
+{
+  "name": "nodejs",
+  "description": "Node.js"
 }
 {
   "name": "TencentMeeting",
