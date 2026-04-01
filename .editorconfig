@@ -7,18 +7,16 @@ root = true
 [*]
 charset = utf-8
 end_of_line = crlf
-indent_size = 4
+indent_size = 2
 indent_style = space
 insert_final_newline = true
 trim_trailing_whitespace = true
-
-[*.{yml,yaml,sh,html,htm,css}]
-indent_size = 2
 
 [*.{sh}]
 end_of_line = lf
 
 [*.{c++,cc,cpp,cppm,cxx,h,h++,hh,hpp,hxx,inl,ipp,ixx,tlh,tli}]
+charset = utf-8-bom
 cpp_generate_documentation_comments = doxygen_slash_star
 indent_size = 4
 tab_width= 4
