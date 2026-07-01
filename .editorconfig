@@ -15,6 +15,34 @@ trim_trailing_whitespace = true
 [*.{sh}]
 end_of_line = lf
 
+[*.{bat,cmd}]
+end_of_line = crlf
+
+[*.sln]
+charset = utf-8-bom
+indent_size = 4
+indent_style = tab
+insert_final_newline = false
+max_line_length = unset
+
+[*.vcxproj]
+charset = utf-8
+indent_size = 2
+insert_final_newline = false
+max_line_length = unset
+
+[*.{vcxproj.filters,vcxproj.user}]
+charset = utf-8-bom
+indent_size = 2
+insert_final_newline = false
+max_line_length = unset
+
+[packages.config]
+charset = utf-8-bom
+indent_size = 2
+insert_final_newline = false
+max_line_length = unset
+
 [*.{c++,cc,cpp,cppm,cxx,h,h++,hh,hpp,hxx,inl,ipp,ixx,tlh,tli}]
 charset = utf-8-bom
 cpp_generate_documentation_comments = doxygen_slash_star
