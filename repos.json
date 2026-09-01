@@ -43,28 +43,20 @@
   "description": "EV录屏"
 }
 {
-  "name": "BaiduNetDisk",
-  "description": "BaiduNetDisk 百度网盘"
-}
-{
   "name": "TTKMusicPlayer",
   "description": "TTKMusicPlayer 音乐播放器,仿酷狗"
 }
 {
-  "name": "KMS",
-  "description": "KMS Windows 激活工具"
+  "name": "BaiduNetDisk",
+  "description": "BaiduNetDisk 百度网盘"
 }
 {
-  "name": "gInk",
-  "description": "gInk 标注工具 "
+  "name": "saladict-desktop",
+  "description": "saladict-desktop 桌面划词与翻译工具"
 }
 {
-  "name": "v2rayN",
-  "description": "v2rayN 网络代理工具"
-}
-{
-  "name": "DesktopCalendar",
-  "description": "DesktopCalendar 桌面日历"
+  "name": "HtmlHelpWorkshop",
+  "description": "HtmlHelpWorkshop chm文件编辑器"
 }
 {
   "name": "Xshell",
@@ -75,32 +67,36 @@
   "description": "金山打字通 2016"
 }
 {
-  "name": "HtmlHelpWorkshop",
-  "description": "HtmlHelpWorkshop chm文件编辑器"
+  "name": "gInk",
+  "description": "gInk 标注工具 "
 }
 {
-  "name": "BandicamPortable",
-  "description": "BandicamPortable 录屏工具"
+  "name": "KMS",
+  "description": "KMS Windows 激活工具"
 }
 {
   "name": "steamcommunity",
   "description": "steamcommunity GitHub 访问加速工具"
 }
 {
-  "name": "BeyondCompare",
-  "description": "BeyondCompare 文件(夹)比较"
+  "name": "BandicamPortable",
+  "description": "BandicamPortable 录屏工具"
 }
 {
-  "name": "saladict-desktop",
-  "description": "saladict-desktop 桌面划词与翻译工具"
+  "name": "BeyondCompare",
+  "description": "BeyondCompare 文件(夹)比较"
 }
 {
   "name": "WiseReminder",
   "description": "WiseReminder 桌面事件提醒"
 }
 {
-  "name": "sublime_text",
-  "description": "sublime_text Sublime Text 3"
+  "name": "DesktopCalendar",
+  "description": "DesktopCalendar 桌面日历"
+}
+{
+  "name": "v2rayN",
+  "description": "v2rayN 网络代理工具"
 }
 {
   "name": "NutStore",
@@ -119,6 +115,22 @@
   "description": "本地音乐播放器(改为个人喜好配置)"
 }
 {
+  "name": "gitbook",
+  "description": "gitbook 避免使用 gitbook-cli 自动下载时卡在 Installing"
+}
+{
+  "name": "sublime_text",
+  "description": "sublime_text Sublime Text 3"
+}
+{
+  "name": "AnLink",
+  "description": "AnLink 手机投屏与控制"
+}
+{
+  "name": "WeGame",
+  "description": "WeGame 腾讯游戏平台"
+}
+{
   "name": "ALiCloudDisk",
   "description": "ALiCloudDisk 阿里云盘"
 }
@@ -127,28 +139,8 @@
   "description": "Docker 一体化管理工具"
 }
 {
-  "name": "gitbook",
-  "description": "gitbook 避免使用 gitbook-cli 自动下载时卡在 Installing"
-}
-{
-  "name": "AnLink",
-  "description": "AnLink 手机投屏与控制"
-}
-{
-  "name": "Sun",
-  "description": "Sun 向日葵远程控制"
-}
-{
-  "name": "VisualCplusplus6.0",
-  "description": "VirualCplusplus6.0 Visual C++ 6.0"
-}
-{
-  "name": "Listary",
-  "description": "Listary 文件搜索 (后续更新至gendloop/ListaryPro)"
-}
-{
-  "name": "WeGame",
-  "description": "WeGame 腾讯游戏平台"
+  "name": "synergy",
+  "description": "Synergy 共享键鼠工具"
 }
 {
   "name": "wps",
@@ -159,20 +151,16 @@
   "description": "HuoRong 火绒 网络安全"
 }
 {
-  "name": "synergy",
-  "description": "Synergy 共享键鼠工具"
+  "name": "sogouwubi",
+  "description": "sogouwubi 搜狗五笔输入法(辅用 sogou; 主用 Rime)"
 }
 {
-  "name": "RaiDrive",
-  "description": "RaiDrive 远程挂载工具"
+  "name": "LeidianSimulator",
+  "description": "LeidianSimulator 雷电模拟器"
 }
 {
-  "name": "FreeCAD",
-  "description": "FreeCAD 3D CAD"
-}
-{
-  "name": "Nucleo",
-  "description": "Nucleo, 创建, 管理和导出图标的工具"
+  "name": "Sun",
+  "description": "Sun 向日葵远程控制"
 }
 {
   "name": "TencentMeeting",
@@ -183,16 +171,28 @@
   "description": "密码管理器"
 }
 {
-  "name": "Qt",
-  "description": "Qt C++界面框架"
+  "name": "FreeCAD",
+  "description": "FreeCAD 3D CAD"
+}
+{
+  "name": "Nucleo",
+  "description": "Nucleo, 创建, 管理和导出图标的工具"
+}
+{
+  "name": "VisualCplusplus6.0",
+  "description": "VirualCplusplus6.0 Visual C++ 6.0"
+}
+{
+  "name": "Rime",
+  "description": "Rime 小狼毫输入法"
 }
 {
   "name": "depends",
   "description": "depends Dependency Walker Dll依赖分析工具"
 }
 {
-  "name": "Rime",
-  "description": "Rime 小狼毫输入法"
+  "name": "Qt",
+  "description": "Qt C++界面框架"
 }
 {
   "name": "Umi-OCR",
@@ -203,6 +203,10 @@
   "description": "PotPlayer 视频播放器"
 }
 {
+  "name": "CAJViewer",
+  "description": "CAJViewer  .caj 格式文件查看器"
+}
+{
   "name": "YuQueInstaller",
   "description": "YuQueInstaller 语雀安装包"
 }
@@ -211,16 +215,8 @@
   "description": "Node.js"
 }
 {
-  "name": "VS_2017_Community",
-  "description": "VS_2017_Community VS 2017 Community"
-}
-{
-  "name": "Stirling-PDF",
-  "description": "Stirling-PDF PDF 转换工具箱"
-}
-{
-  "name": "freepiano",
-  "description": "freepiano 使用电脑键盘演奏音乐的开源软件"
+  "name": "QuickLook",
+  "description": "QuickLook 已包含所有常用插件"
 }
 {
   "name": "keepass-plugins",
@@ -231,32 +227,36 @@
   "description": "Typora Markdown编辑器"
 }
 {
-  "name": "QuickLook",
-  "description": "QuickLook 已包含所有常用插件"
+  "name": "RaiDrive",
+  "description": "RaiDrive 远程挂载工具"
 }
 {
-  "name": "sogouwubi",
-  "description": "sogouwubi 搜狗五笔输入法(辅用 sogou; 主用 Rime)"
+  "name": "VS_2017_Community",
+  "description": "VS_2017_Community VS 2017 Community"
 }
 {
-  "name": "LeidianSimulator",
-  "description": "LeidianSimulator 雷电模拟器"
+  "name": "freepiano",
+  "description": "freepiano 使用电脑键盘演奏音乐的开源软件"
 }
 {
-  "name": "CAJViewer",
-  "description": "CAJViewer  .caj 格式文件查看器"
+  "name": "Stirling-PDF",
+  "description": "Stirling-PDF PDF 转换工具箱"
+}
+{
+  "name": "Listary",
+  "description": "Listary 文件搜索 (后续更新至gendloop/ListaryPro)"
 }
 {
   "name": "chatbox",
   "description": "chatbox Chat GPT 工具"
 }
 {
-  "name": "MacriumReflect",
-  "description": "MacriumReflect 系统映像制作"
-}
-{
   "name": "keepass-languages",
   "description": "keepass-languages KeePass Languages (已包含简体,繁体中文, 日语)"
+}
+{
+  "name": "MacriumReflect",
+  "description": "MacriumReflect 系统映像制作"
 }
 {
   "name": "LANDropLatest",
