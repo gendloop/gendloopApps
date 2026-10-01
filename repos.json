@@ -35,16 +35,32 @@
   "description": "CCProxy 代理服务器搭建工具"
 }
 {
-  "name": "IObitUnlocker",
-  "description": "IObitUnlocker 文件(夹)解除占用"
-}
-{
   "name": "EVCapture",
   "description": "EV录屏"
 }
 {
+  "name": "IObitUnlocker",
+  "description": "IObitUnlocker 文件(夹)解除占用"
+}
+{
+  "name": "RaiDrive",
+  "description": "RaiDrive 远程挂载工具"
+}
+{
   "name": "TTKMusicPlayer",
   "description": "TTKMusicPlayer 音乐播放器,仿酷狗"
+}
+{
+  "name": "HtmlHelpWorkshop",
+  "description": "HtmlHelpWorkshop chm文件编辑器"
+}
+{
+  "name": "gInk",
+  "description": "gInk 标注工具 "
+}
+{
+  "name": "KMS",
+  "description": "KMS Windows 激活工具"
 }
 {
   "name": "BaiduNetDisk",
@@ -55,24 +71,12 @@
   "description": "saladict-desktop 桌面划词与翻译工具"
 }
 {
-  "name": "HtmlHelpWorkshop",
-  "description": "HtmlHelpWorkshop chm文件编辑器"
-}
-{
   "name": "Xshell",
   "description": "Xshell 远程访问和管理工具"
 }
 {
   "name": "TypeEasy",
   "description": "金山打字通 2016"
-}
-{
-  "name": "gInk",
-  "description": "gInk 标注工具 "
-}
-{
-  "name": "KMS",
-  "description": "KMS Windows 激活工具"
 }
 {
   "name": "steamcommunity",
@@ -87,16 +91,16 @@
   "description": "BeyondCompare 文件(夹)比较"
 }
 {
-  "name": "WiseReminder",
-  "description": "WiseReminder 桌面事件提醒"
-}
-{
   "name": "DesktopCalendar",
   "description": "DesktopCalendar 桌面日历"
 }
 {
   "name": "v2rayN",
   "description": "v2rayN 网络代理工具"
+}
+{
+  "name": "WiseReminder",
+  "description": "WiseReminder 桌面事件提醒"
 }
 {
   "name": "NutStore",
@@ -119,24 +123,16 @@
   "description": "gitbook 避免使用 gitbook-cli 自动下载时卡在 Installing"
 }
 {
-  "name": "sublime_text",
-  "description": "sublime_text Sublime Text 3"
+  "name": "WeGame",
+  "description": "WeGame 腾讯游戏平台"
 }
 {
   "name": "AnLink",
   "description": "AnLink 手机投屏与控制"
 }
 {
-  "name": "WeGame",
-  "description": "WeGame 腾讯游戏平台"
-}
-{
-  "name": "ALiCloudDisk",
-  "description": "ALiCloudDisk 阿里云盘"
-}
-{
-  "name": "DockerDesktop",
-  "description": "Docker 一体化管理工具"
+  "name": "sublime_text",
+  "description": "sublime_text Sublime Text 3"
 }
 {
   "name": "synergy",
@@ -151,18 +147,6 @@
   "description": "HuoRong 火绒 网络安全"
 }
 {
-  "name": "sogouwubi",
-  "description": "sogouwubi 搜狗五笔输入法(辅用 sogou; 主用 Rime)"
-}
-{
-  "name": "LeidianSimulator",
-  "description": "LeidianSimulator 雷电模拟器"
-}
-{
-  "name": "Sun",
-  "description": "Sun 向日葵远程控制"
-}
-{
   "name": "TencentMeeting",
   "description": "TencentMeeting 腾迅会议"
 }
@@ -171,16 +155,28 @@
   "description": "密码管理器"
 }
 {
-  "name": "FreeCAD",
-  "description": "FreeCAD 3D CAD"
-}
-{
-  "name": "Nucleo",
-  "description": "Nucleo, 创建, 管理和导出图标的工具"
+  "name": "Sun",
+  "description": "Sun 向日葵远程控制"
 }
 {
   "name": "VisualCplusplus6.0",
   "description": "VirualCplusplus6.0 Visual C++ 6.0"
+}
+{
+  "name": "ALiCloudDisk",
+  "description": "ALiCloudDisk 阿里云盘"
+}
+{
+  "name": "DockerDesktop",
+  "description": "Docker 一体化管理工具"
+}
+{
+  "name": "sogouwubi",
+  "description": "sogouwubi 搜狗五笔输入法(辅用 sogou; 主用 Rime)"
+}
+{
+  "name": "LeidianSimulator",
+  "description": "LeidianSimulator 雷电模拟器"
 }
 {
   "name": "Rime",
@@ -191,28 +187,16 @@
   "description": "depends Dependency Walker Dll依赖分析工具"
 }
 {
+  "name": "FreeCAD",
+  "description": "FreeCAD 3D CAD"
+}
+{
+  "name": "Nucleo",
+  "description": "Nucleo, 创建, 管理和导出图标的工具"
+}
+{
   "name": "Qt",
   "description": "Qt C++界面框架"
-}
-{
-  "name": "Umi-OCR",
-  "description": "Umi-OCR 本地OCR工具"
-}
-{
-  "name": "PotPlayer",
-  "description": "PotPlayer 视频播放器"
-}
-{
-  "name": "CAJViewer",
-  "description": "CAJViewer  .caj 格式文件查看器"
-}
-{
-  "name": "YuQueInstaller",
-  "description": "YuQueInstaller 语雀安装包"
-}
-{
-  "name": "nodejs",
-  "description": "Node.js"
 }
 {
   "name": "QuickLook",
@@ -227,8 +211,24 @@
   "description": "Typora Markdown编辑器"
 }
 {
-  "name": "RaiDrive",
-  "description": "RaiDrive 远程挂载工具"
+  "name": "Umi-OCR",
+  "description": "Umi-OCR 本地OCR工具"
+}
+{
+  "name": "PotPlayer",
+  "description": "PotPlayer 视频播放器"
+}
+{
+  "name": "YuQueInstaller",
+  "description": "YuQueInstaller 语雀安装包"
+}
+{
+  "name": "nodejs",
+  "description": "Node.js"
+}
+{
+  "name": "CAJViewer",
+  "description": "CAJViewer  .caj 格式文件查看器"
 }
 {
   "name": "VS_2017_Community",
@@ -247,10 +247,6 @@
   "description": "Listary 文件搜索 (后续更新至gendloop/ListaryPro)"
 }
 {
-  "name": "chatbox",
-  "description": "chatbox Chat GPT 工具"
-}
-{
   "name": "keepass-languages",
   "description": "keepass-languages KeePass Languages (已包含简体,繁体中文, 日语)"
 }
@@ -261,4 +257,8 @@
 {
   "name": "LANDropLatest",
   "description": "跨平台局域网文件传输工具"
+}
+{
+  "name": "chatbox",
+  "description": "chatbox Chat GPT 工具"
 }
